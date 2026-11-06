@@ -1,0 +1,5 @@
+Number,Slider,Percentage,Condition
+1,1;2;3;4,20;20;20;40,check
+2,1;2;3;4,10;50;30;10,check
+3,1;2;3;4,70;10;10;10,check
+4,1;2;3;4,20;40;10;30,check

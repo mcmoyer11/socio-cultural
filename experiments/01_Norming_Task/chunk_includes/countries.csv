@@ -1,0 +1,16 @@
+Number,ReferenceCountry,Condition
+1,Afghanistan,Comparison
+2,Greece,Comparison
+3,Nigeria,Comparison
+4,Poland,Comparison
+5,Turkey,Comparison
+6,Germany,Consistent
+7,Pakistan,Consistent
+8,Spain,Consistent
+9,United Kingdom,Consistent
+10,Cyprus,Inconsistent
+11,Iraq,Inconsistent
+12,Sudan,Inconsistent
+13,Armenia,Inconsistent
+14,Egypt,Inconsistent
+15,Morocco,Inconsistent

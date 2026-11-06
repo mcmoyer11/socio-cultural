@@ -1,0 +1,11 @@
+,Word1,Word2,FeatureMatch,Feedback
+1,cat,feline,Similar,These words are close in meaning, so you should rate them more towards the SIMILAR end.
+2,disagree,dispute,Similar,These words are close in meaning, so you should rate them more towards the SIMILAR end.
+3,canine,dog,Similar,These words are close in meaning, so you should rate them more towards the SIMILAR end.
+4,cup,mug,Similar,These words are close in meaning, so you should rate them more towards the SIMILAR end.
+5,couch,sofa,Similar,These words are close in meaning, so you should rate them more towards the SIMILAR end.
+6,obstruct,help,Dissimilar,These words are not close in meaning, so you should rate them more towards the DISSIMILAR end.
+7,smooth,rough,Dissimilar,These words are not close in meaning, so you should rate them more towards the DISSIMILAR end.
+8,summer,winter,Dissimilar,These words are not close in meaning, so you should rate them more towards the DISSIMILAR end.
+9,plant,building,Dissimilar,These words are not close in meaning, so you should rate them more towards the DISSIMILAR end.
+10,ocean,castle,Dissimilar,These words are not close in meaning, so you should rate them more towards the DISSIMILAR end.

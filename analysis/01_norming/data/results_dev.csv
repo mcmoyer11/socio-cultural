@@ -1,0 +1,2026 @@
+#
+# Results on Wed, 07 Oct 2026 21:56:15 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. ID.
+# 15. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,52,0,consent,NULL,PennController,2,_Trial_,Start,1791409969428,m,m,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,52,0,consent,NULL,PennController,2,_Header_,Start,1791409969428,m,m,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,52,0,consent,NULL,PennController,2,_Header_,End,1791409969429,m,m,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,52,0,consent,NULL,TextInput,ID,First,,1791409971440,m,m,m
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,52,0,consent,NULL,TextInput,ID,Final,m,1791409973255,m,m,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,52,0,consent,NULL,PennController,2,_Trial_,End,1791409973256,m,m,NULL
+# 14. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,54,0,instructions1,NULL,PennController,4,_Trial_,Start,1791409973267,m,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,54,0,instructions1,NULL,PennController,4,_Header_,Start,1791409973267,m,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,54,0,instructions1,NULL,PennController,4,_Header_,End,1791409973268,m,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,54,0,instructions1,NULL,PennController,4,_Trial_,End,1791409975013,m,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,56,0,practice_intro,NULL,PennController,6,_Trial_,Start,1791409975018,m,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,56,0,practice_intro,NULL,PennController,6,_Header_,Start,1791409975018,m,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,56,0,practice_intro,NULL,PennController,6,_Header_,End,1791409975019,m,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,56,0,practice_intro,NULL,PennController,6,_Trial_,End,1791409981144,m,NULL
+# 14. Percentage.
+# 15. Blue.
+# 16. Pink.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,68,0,training2,NULL,PennController,67,_Trial_,Start,1791409981152,m,20,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,68,0,training2,NULL,PennController,67,_Header_,Start,1791409981152,m,20,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,68,0,training2,NULL,PennController,67,_Header_,End,1791409981152,m,20,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,68,0,training2,NULL,PennController,67,_Trial_,End,1791409985631,m,20,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,69,0,training2,NULL,PennController,68,_Trial_,Start,1791409985635,m,30,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,69,0,training2,NULL,PennController,68,_Header_,Start,1791409985635,m,30,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,69,0,training2,NULL,PennController,68,_Header_,End,1791409985635,m,30,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,69,0,training2,NULL,PennController,68,_Trial_,End,1791409988776,m,30,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,70,0,training2,NULL,PennController,69,_Trial_,Start,1791409988781,m,Percentage,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,70,0,training2,NULL,PennController,69,_Header_,Start,1791409988781,m,Percentage,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,70,0,training2,NULL,PennController,69,_Header_,End,1791409988782,m,Percentage,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,70,0,training2,NULL,PennController,69,_Trial_,End,1791409991862,m,Percentage,100,0,NULL
+# 17. Green.
+# 18. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,71,0,training3,NULL,PennController,70,_Trial_,Start,1791409991867,m,20,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,71,0,training3,NULL,PennController,70,_Header_,Start,1791409991867,m,20,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,71,0,training3,NULL,PennController,70,_Header_,End,1791409991867,m,20,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,71,0,training3,NULL,PennController,70,_Trial_,End,1791409995327,m,20,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,73,0,training3,NULL,PennController,72,_Trial_,Start,1791409995332,m,Percentage,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,73,0,training3,NULL,PennController,72,_Header_,Start,1791409995332,m,Percentage,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,73,0,training3,NULL,PennController,72,_Header_,End,1791409995333,m,Percentage,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,73,0,training3,NULL,PennController,72,_Trial_,End,1791409998037,m,Percentage,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,72,0,training3,NULL,PennController,71,_Trial_,Start,1791409998042,m,30,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,72,0,training3,NULL,PennController,71,_Header_,Start,1791409998042,m,30,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,72,0,training3,NULL,PennController,71,_Header_,End,1791409998043,m,30,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,72,0,training3,NULL,PennController,71,_Trial_,End,1791410000656,m,30,100,0,0,NULL
+# 18. Yellow.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,75,0,training4,NULL,PennController,74,_Trial_,Start,1791410000660,m,30,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,75,0,training4,NULL,PennController,74,_Header_,Start,1791410000660,m,30,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,75,0,training4,NULL,PennController,74,_Header_,End,1791410000661,m,30,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,75,0,training4,NULL,PennController,74,_Trial_,End,1791410003766,m,30,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,74,0,training4,NULL,PennController,73,_Trial_,Start,1791410003771,m,20,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,74,0,training4,NULL,PennController,73,_Header_,Start,1791410003771,m,20,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,74,0,training4,NULL,PennController,73,_Header_,End,1791410003772,m,20,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,74,0,training4,NULL,PennController,73,_Trial_,End,1791410008356,m,20,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,76,0,training4,NULL,PennController,75,_Trial_,Start,1791410008360,m,Percentage,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,76,0,training4,NULL,PennController,75,_Header_,Start,1791410008360,m,Percentage,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,76,0,training4,NULL,PennController,75,_Header_,End,1791410008361,m,Percentage,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,76,0,training4,NULL,PennController,75,_Trial_,End,1791410010919,m,Percentage,100,0,0,0,NULL
+# 14. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,57,0,end_instructions,NULL,PennController,7,_Trial_,Start,1791410010926,m,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,57,0,end_instructions,NULL,PennController,7,_Header_,Start,1791410010926,m,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,57,0,end_instructions,NULL,PennController,7,_Header_,End,1791410010927,m,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,57,0,end_instructions,NULL,PennController,7,_Trial_,End,1791410012879,m,NULL
+# 14. ReferenceCountry.
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,38,0,region,NULL,PennController,43,_Trial_,Start,1791410012884,m,Germany,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,38,0,region,NULL,PennController,43,_Header_,Start,1791410012884,m,Germany,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,38,0,region,NULL,PennController,43,_Header_,End,1791410012885,m,Germany,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,38,0,region,NULL,PennController,43,_Trial_,End,1791410018596,m,Germany,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,5,0,religion,NULL,PennController,10,_Trial_,Start,1791410018600,m,Nigeria,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,5,0,religion,NULL,PennController,10,_Header_,Start,1791410018600,m,Nigeria,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,5,0,religion,NULL,PennController,10,_Header_,End,1791410018601,m,Nigeria,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,5,0,religion,NULL,PennController,10,_Trial_,End,1791410021366,m,Nigeria,100,0,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,22,0,race,NULL,PennController,27,_Trial_,Start,1791410021373,m,Turkey,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,22,0,race,NULL,PennController,27,_Header_,Start,1791410021373,m,Turkey,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,22,0,race,NULL,PennController,27,_Header_,End,1791410021374,m,Turkey,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,22,0,race,NULL,PennController,27,_Trial_,End,1791410024196,m,Turkey,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,33,0,region,NULL,PennController,38,_Trial_,Start,1791410024201,m,Afghanistan,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,33,0,region,NULL,PennController,38,_Header_,Start,1791410024201,m,Afghanistan,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,33,0,region,NULL,PennController,38,_Header_,End,1791410024202,m,Afghanistan,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,33,0,region,NULL,PennController,38,_Trial_,End,1791410028380,m,Afghanistan,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,12,0,religion,NULL,PennController,17,_Trial_,Start,1791410028386,m,Cyprus,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,12,0,religion,NULL,PennController,17,_Header_,Start,1791410028386,m,Cyprus,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,12,0,religion,NULL,PennController,17,_Header_,End,1791410028386,m,Cyprus,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,12,0,religion,NULL,PennController,17,_Trial_,End,1791410030899,m,Cyprus,100,0,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,30,0,race,NULL,PennController,35,_Trial_,Start,1791410030907,m,Armenia,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,30,0,race,NULL,PennController,35,_Header_,Start,1791410030907,m,Armenia,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,30,0,race,NULL,PennController,35,_Header_,End,1791410030907,m,Armenia,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,30,0,race,NULL,PennController,35,_Trial_,End,1791410034642,m,Armenia,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,43,0,region,NULL,PennController,48,_Trial_,Start,1791410034646,m,Iraq,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,43,0,region,NULL,PennController,48,_Header_,Start,1791410034646,m,Iraq,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,43,0,region,NULL,PennController,48,_Header_,End,1791410034647,m,Iraq,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,43,0,region,NULL,PennController,48,_Trial_,End,1791410038842,m,Iraq,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,7,0,religion,NULL,PennController,12,_Trial_,Start,1791410038846,m,Turkey,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,7,0,religion,NULL,PennController,12,_Header_,Start,1791410038846,m,Turkey,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,7,0,religion,NULL,PennController,12,_Header_,End,1791410038847,m,Turkey,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,7,0,religion,NULL,PennController,12,_Trial_,End,1791410041742,m,Turkey,100,0,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,23,0,race,NULL,PennController,28,_Trial_,Start,1791410041748,m,Germany,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,23,0,race,NULL,PennController,28,_Header_,Start,1791410041748,m,Germany,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,23,0,race,NULL,PennController,28,_Header_,End,1791410041748,m,Germany,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,23,0,race,NULL,PennController,28,_Trial_,End,1791410044108,m,Germany,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,45,0,region,NULL,PennController,50,_Trial_,Start,1791410044113,m,Armenia,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,45,0,region,NULL,PennController,50,_Header_,Start,1791410044113,m,Armenia,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,45,0,region,NULL,PennController,50,_Header_,End,1791410044113,m,Armenia,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,45,0,region,NULL,PennController,50,_Trial_,End,1791410046630,m,Armenia,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,15,0,religion,NULL,PennController,20,_Trial_,Start,1791410046635,m,Armenia,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,15,0,religion,NULL,PennController,20,_Header_,Start,1791410046635,m,Armenia,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,15,0,religion,NULL,PennController,20,_Header_,End,1791410046636,m,Armenia,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,15,0,religion,NULL,PennController,20,_Trial_,End,1791410048787,m,Armenia,100,0,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,18,0,race,NULL,PennController,23,_Trial_,Start,1791410048793,m,Afghanistan,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,18,0,race,NULL,PennController,23,_Header_,Start,1791410048793,m,Afghanistan,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,18,0,race,NULL,PennController,23,_Header_,End,1791410048793,m,Afghanistan,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,18,0,race,NULL,PennController,23,_Trial_,End,1791410050712,m,Afghanistan,100,0,NULL
+# 14. Slider.
+# 15. 1.
+# 16. 2.
+# 17. 3.
+# 18. 4.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,51,0,attn,NULL,PennController,56,_Trial_,Start,1791410050717,m,4,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,51,0,attn,NULL,PennController,56,_Header_,Start,1791410050717,m,4,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,51,0,attn,NULL,PennController,56,_Header_,End,1791410050717,m,4,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,51,0,attn,NULL,PennController,56,_Trial_,End,1791410061388,m,4,0,0,0,100,NULL
+# 14. ReferenceCountry.
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,36,0,region,NULL,PennController,41,_Trial_,Start,1791410061395,m,Poland,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,36,0,region,NULL,PennController,41,_Header_,Start,1791410061395,m,Poland,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,36,0,region,NULL,PennController,41,_Header_,End,1791410061395,m,Poland,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,36,0,region,NULL,PennController,41,_Trial_,End,1791410065658,m,Poland,0,100,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,4,0,religion,NULL,PennController,9,_Trial_,Start,1791410065662,m,Greece,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,4,0,religion,NULL,PennController,9,_Header_,Start,1791410065662,m,Greece,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,4,0,religion,NULL,PennController,9,_Header_,End,1791410065663,m,Greece,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,4,0,religion,NULL,PennController,9,_Trial_,End,1791410068057,m,Greece,0,0,100,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,20,0,race,NULL,PennController,25,_Trial_,Start,1791410068061,m,Nigeria,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,20,0,race,NULL,PennController,25,_Header_,Start,1791410068061,m,Nigeria,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,20,0,race,NULL,PennController,25,_Header_,End,1791410068061,m,Nigeria,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,20,0,race,NULL,PennController,25,_Trial_,End,1791410072010,m,Nigeria,0,100,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,41,0,region,NULL,PennController,46,_Trial_,Start,1791410072018,m,United Kingdom,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,41,0,region,NULL,PennController,46,_Header_,Start,1791410072018,m,United Kingdom,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,41,0,region,NULL,PennController,46,_Header_,End,1791410072019,m,United Kingdom,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,41,0,region,NULL,PennController,46,_Trial_,End,1791410079189,m,United Kingdom,0,100,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,6,0,religion,NULL,PennController,11,_Trial_,Start,1791410079194,m,Poland,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,6,0,religion,NULL,PennController,11,_Header_,Start,1791410079194,m,Poland,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,6,0,religion,NULL,PennController,11,_Header_,End,1791410079195,m,Poland,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,6,0,religion,NULL,PennController,11,_Trial_,End,1791410081421,m,Poland,0,0,100,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,26,0,race,NULL,PennController,31,_Trial_,Start,1791410081425,m,United Kingdom,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,26,0,race,NULL,PennController,31,_Header_,Start,1791410081425,m,United Kingdom,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,26,0,race,NULL,PennController,31,_Header_,End,1791410081426,m,United Kingdom,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,26,0,race,NULL,PennController,31,_Trial_,End,1791410083065,m,United Kingdom,0,100,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,42,0,region,NULL,PennController,47,_Trial_,Start,1791410083071,m,Cyprus,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,42,0,region,NULL,PennController,47,_Header_,Start,1791410083071,m,Cyprus,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,42,0,region,NULL,PennController,47,_Header_,End,1791410083072,m,Cyprus,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,42,0,region,NULL,PennController,47,_Trial_,End,1791410085372,m,Cyprus,0,0,0,100,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,11,0,religion,NULL,PennController,16,_Trial_,Start,1791410085376,m,United Kingdom,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,11,0,religion,NULL,PennController,16,_Header_,Start,1791410085376,m,United Kingdom,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,11,0,religion,NULL,PennController,16,_Header_,End,1791410085376,m,United Kingdom,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,11,0,religion,NULL,PennController,16,_Trial_,End,1791410088069,m,United Kingdom,0,0,100,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,31,0,race,NULL,PennController,36,_Trial_,Start,1791410088073,m,Egypt,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,31,0,race,NULL,PennController,36,_Header_,Start,1791410088073,m,Egypt,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,31,0,race,NULL,PennController,36,_Header_,End,1791410088073,m,Egypt,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,31,0,race,NULL,PennController,36,_Trial_,End,1791410089961,m,Egypt,0,100,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,37,0,region,NULL,PennController,42,_Trial_,Start,1791410089969,m,Turkey,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,37,0,region,NULL,PennController,42,_Header_,Start,1791410089969,m,Turkey,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,37,0,region,NULL,PennController,42,_Header_,End,1791410089970,m,Turkey,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,37,0,region,NULL,PennController,42,_Trial_,End,1791410092283,m,Turkey,0,100,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,14,0,religion,NULL,PennController,19,_Trial_,Start,1791410092290,m,Sudan,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,14,0,religion,NULL,PennController,19,_Header_,Start,1791410092290,m,Sudan,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,14,0,religion,NULL,PennController,19,_Header_,End,1791410092290,m,Sudan,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,14,0,religion,NULL,PennController,19,_Trial_,End,1791410094333,m,Sudan,0,0,100,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,24,0,race,NULL,PennController,29,_Trial_,Start,1791410094338,m,Pakistan,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,24,0,race,NULL,PennController,29,_Header_,Start,1791410094338,m,Pakistan,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,24,0,race,NULL,PennController,29,_Header_,End,1791410094338,m,Pakistan,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,24,0,race,NULL,PennController,29,_Trial_,End,1791410097155,m,Pakistan,0,100,NULL
+# 14. Slider.
+# 15. 1.
+# 16. 2.
+# 17. 3.
+# 18. 4.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,49,0,attn,NULL,PennController,54,_Trial_,Start,1791410097161,m,2,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,49,0,attn,NULL,PennController,54,_Header_,Start,1791410097161,m,2,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,49,0,attn,NULL,PennController,54,_Header_,End,1791410097161,m,2,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,49,0,attn,NULL,PennController,54,_Trial_,End,1791410107044,m,2,0,100,0,0,NULL
+# 14. ReferenceCountry.
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,46,0,region,NULL,PennController,51,_Trial_,Start,1791410107049,m,Egypt,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,46,0,region,NULL,PennController,51,_Header_,Start,1791410107049,m,Egypt,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,46,0,region,NULL,PennController,51,_Header_,End,1791410107049,m,Egypt,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,46,0,region,NULL,PennController,51,_Trial_,End,1791410109468,m,Egypt,0,0,0,100,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,8,0,religion,NULL,PennController,13,_Trial_,Start,1791410109472,m,Germany,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,8,0,religion,NULL,PennController,13,_Header_,Start,1791410109472,m,Germany,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,8,0,religion,NULL,PennController,13,_Header_,End,1791410109473,m,Germany,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,8,0,religion,NULL,PennController,13,_Trial_,End,1791410111266,m,Germany,0,0,0,100,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,28,0,race,NULL,PennController,33,_Trial_,Start,1791410111271,m,Iraq,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,28,0,race,NULL,PennController,33,_Header_,Start,1791410111271,m,Iraq,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,28,0,race,NULL,PennController,33,_Header_,End,1791410111271,m,Iraq,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,28,0,race,NULL,PennController,33,_Trial_,End,1791410113116,m,Iraq,0,100,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,39,0,region,NULL,PennController,44,_Trial_,Start,1791410113122,m,Pakistan,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,39,0,region,NULL,PennController,44,_Header_,Start,1791410113122,m,Pakistan,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,39,0,region,NULL,PennController,44,_Header_,End,1791410113123,m,Pakistan,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,39,0,region,NULL,PennController,44,_Trial_,End,1791410115375,m,Pakistan,0,0,100,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,3,0,religion,NULL,PennController,8,_Trial_,Start,1791410115383,m,Afghanistan,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,3,0,religion,NULL,PennController,8,_Header_,Start,1791410115383,m,Afghanistan,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,3,0,religion,NULL,PennController,8,_Header_,End,1791410115383,m,Afghanistan,0,0,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,3,0,religion,NULL,PennController,8,_Trial_,End,1791410117333,m,Afghanistan,0,0,0,100,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,25,0,race,NULL,PennController,30,_Trial_,Start,1791410117337,m,Spain,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,25,0,race,NULL,PennController,30,_Header_,Start,1791410117337,m,Spain,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,25,0,race,NULL,PennController,30,_Header_,End,1791410117337,m,Spain,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,25,0,race,NULL,PennController,30,_Trial_,End,1791410119044,m,Spain,0,100,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,35,0,region,NULL,PennController,40,_Trial_,Start,1791410119048,m,Nigeria,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,35,0,region,NULL,PennController,40,_Header_,Start,1791410119048,m,Nigeria,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,35,0,region,NULL,PennController,40,_Header_,End,1791410119048,m,Nigeria,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,35,0,region,NULL,PennController,40,_Trial_,End,1791410121733,m,Nigeria,0,100,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,13,0,religion,NULL,PennController,18,_Trial_,Start,1791410121739,m,Iraq,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,13,0,religion,NULL,PennController,18,_Header_,Start,1791410121739,m,Iraq,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,13,0,religion,NULL,PennController,18,_Header_,End,1791410121739,m,Iraq,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,13,0,religion,NULL,PennController,18,_Trial_,End,1791410124820,m,Iraq,0,0,100,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,27,0,race,NULL,PennController,32,_Trial_,Start,1791410124824,m,Cyprus,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,27,0,race,NULL,PennController,32,_Header_,Start,1791410124824,m,Cyprus,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,27,0,race,NULL,PennController,32,_Header_,End,1791410124825,m,Cyprus,0,100,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,27,0,race,NULL,PennController,32,_Trial_,End,1791410127132,m,Cyprus,0,100,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,47,0,region,NULL,PennController,52,_Trial_,Start,1791410127136,m,Morocco,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,47,0,region,NULL,PennController,52,_Header_,Start,1791410127136,m,Morocco,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,47,0,region,NULL,PennController,52,_Header_,End,1791410127136,m,Morocco,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,47,0,region,NULL,PennController,52,_Trial_,End,1791410129581,m,Morocco,0,100,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,9,0,religion,NULL,PennController,14,_Trial_,Start,1791410129586,m,Pakistan,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,9,0,religion,NULL,PennController,14,_Header_,Start,1791410129586,m,Pakistan,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,9,0,religion,NULL,PennController,14,_Header_,End,1791410129587,m,Pakistan,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,9,0,religion,NULL,PennController,14,_Trial_,End,1791410131822,m,Pakistan,0,100,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,21,0,race,NULL,PennController,26,_Trial_,Start,1791410131828,m,Poland,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,21,0,race,NULL,PennController,26,_Header_,Start,1791410131828,m,Poland,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,21,0,race,NULL,PennController,26,_Header_,End,1791410131828,m,Poland,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,21,0,race,NULL,PennController,26,_Trial_,End,1791410134035,m,Poland,100,0,NULL
+# 14. Slider.
+# 15. 1.
+# 16. 2.
+# 17. 3.
+# 18. 4.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,50,0,attn,NULL,PennController,55,_Trial_,Start,1791410134038,m,3,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,50,0,attn,NULL,PennController,55,_Header_,Start,1791410134038,m,3,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,50,0,attn,NULL,PennController,55,_Header_,End,1791410134038,m,3,0,0,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,50,0,attn,NULL,PennController,55,_Trial_,End,1791410139132,m,3,0,0,100,0,NULL
+# 14. ReferenceCountry.
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,44,0,region,NULL,PennController,49,_Trial_,Start,1791410139137,m,Sudan,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,44,0,region,NULL,PennController,49,_Header_,Start,1791410139137,m,Sudan,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,44,0,region,NULL,PennController,49,_Header_,End,1791410139137,m,Sudan,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,44,0,region,NULL,PennController,49,_Trial_,End,1791410141615,m,Sudan,0,100,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,16,0,religion,NULL,PennController,21,_Trial_,Start,1791410141620,m,Egypt,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,16,0,religion,NULL,PennController,21,_Header_,Start,1791410141620,m,Egypt,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,16,0,religion,NULL,PennController,21,_Header_,End,1791410141620,m,Egypt,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,16,0,religion,NULL,PennController,21,_Trial_,End,1791410143634,m,Egypt,0,100,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,32,0,race,NULL,PennController,37,_Trial_,Start,1791410143638,m,Morocco,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,32,0,race,NULL,PennController,37,_Header_,Start,1791410143638,m,Morocco,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,32,0,race,NULL,PennController,37,_Header_,End,1791410143639,m,Morocco,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,32,0,race,NULL,PennController,37,_Trial_,End,1791410146077,m,Morocco,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,40,0,region,NULL,PennController,45,_Trial_,Start,1791410146082,m,Spain,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,40,0,region,NULL,PennController,45,_Header_,Start,1791410146082,m,Spain,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,40,0,region,NULL,PennController,45,_Header_,End,1791410146083,m,Spain,0,100,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,40,0,region,NULL,PennController,45,_Trial_,End,1791410148601,m,Spain,0,100,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,17,0,religion,NULL,PennController,22,_Trial_,Start,1791410148605,m,Morocco,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,17,0,religion,NULL,PennController,22,_Header_,Start,1791410148605,m,Morocco,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,17,0,religion,NULL,PennController,22,_Header_,End,1791410148605,m,Morocco,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,17,0,religion,NULL,PennController,22,_Trial_,End,1791410150601,m,Morocco,100,0,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,29,0,race,NULL,PennController,34,_Trial_,Start,1791410150606,m,Sudan,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,29,0,race,NULL,PennController,34,_Header_,Start,1791410150606,m,Sudan,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,29,0,race,NULL,PennController,34,_Header_,End,1791410150607,m,Sudan,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,29,0,race,NULL,PennController,34,_Trial_,End,1791410152675,m,Sudan,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,34,0,region,NULL,PennController,39,_Trial_,Start,1791410152679,m,Greece,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,34,0,region,NULL,PennController,39,_Header_,Start,1791410152679,m,Greece,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,34,0,region,NULL,PennController,39,_Header_,End,1791410152679,m,Greece,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,34,0,region,NULL,PennController,39,_Trial_,End,1791410155079,m,Greece,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,10,0,religion,NULL,PennController,15,_Trial_,Start,1791410155083,m,Spain,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,10,0,religion,NULL,PennController,15,_Header_,Start,1791410155083,m,Spain,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,10,0,religion,NULL,PennController,15,_Header_,End,1791410155083,m,Spain,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,10,0,religion,NULL,PennController,15,_Trial_,End,1791410157275,m,Spain,100,0,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,19,0,race,NULL,PennController,24,_Trial_,Start,1791410157281,m,Greece,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,19,0,race,NULL,PennController,24,_Header_,Start,1791410157281,m,Greece,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,19,0,race,NULL,PennController,24,_Header_,End,1791410157281,m,Greece,100,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,19,0,race,NULL,PennController,24,_Trial_,End,1791410159052,m,Greece,100,0,NULL
+# 14. Slider.
+# 15. 1.
+# 16. 2.
+# 17. 3.
+# 18. 4.
+# 19. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,48,0,attn,NULL,PennController,53,_Trial_,Start,1791410159057,m,1,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,48,0,attn,NULL,PennController,53,_Header_,Start,1791410159057,m,1,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,48,0,attn,NULL,PennController,53,_Header_,End,1791410159058,m,1,100,0,0,0,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,48,0,attn,NULL,PennController,53,_Trial_,End,1791410163001,m,1,100,0,0,0,NULL
+# 14. NativeLang.
+# 15. OtherLangs.
+# 16. Gender.
+# 17. Education.
+# 18. Comments.
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,53,0,demo,NULL,PennController,3,_Trial_,Start,1791410163005,m,m,m,undefined,undefined,undefined,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,53,0,demo,NULL,PennController,3,_Header_,Start,1791410163005,m,m,m,undefined,undefined,undefined,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,53,0,demo,NULL,PennController,3,_Header_,End,1791410163005,m,m,m,undefined,undefined,undefined,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,53,0,demo,NULL,TextInput,NativeLang,First,,1791410166883,m,m,m,undefined,undefined,undefined,m
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,53,0,demo,NULL,TextInput,Gender,First,,1791410169562,m,m,m,undefined,undefined,undefined,l
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,53,0,demo,NULL,TextInput,Education,First,,1791410171236,m,m,m,undefined,undefined,undefined,m
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,53,0,demo,NULL,TextInput,NativeLang,Final,m,1791410175189,m,m,m,undefined,undefined,undefined,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,53,0,demo,NULL,TextInput,Gender,Final,l,1791410175189,m,m,m,undefined,undefined,undefined,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,53,0,demo,NULL,TextInput,Education,Final,m,1791410175189,m,m,m,undefined,undefined,undefined,NULL
+1791410175,533913c3c3eed6151714ed6aeddfd93b,PennController,53,0,demo,NULL,PennController,3,_Trial_,End,1791410175190,m,m,m,undefined,undefined,undefined,NULL
+#
+# Results on Thu, 08 Oct 2026 16:58:51 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. ID.
+# 15. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,52,0,consent,NULL,PennController,2,_Trial_,Start,1791478557044,m,m,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,52,0,consent,NULL,PennController,2,_Header_,Start,1791478557044,m,m,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,52,0,consent,NULL,PennController,2,_Header_,End,1791478557046,m,m,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,52,0,consent,NULL,TextInput,ID,First,,1791478560144,m,m,m
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,52,0,consent,NULL,TextInput,ID,Final,m,1791478561174,m,m,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,52,0,consent,NULL,PennController,2,_Trial_,End,1791478561175,m,m,NULL
+# 14. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,54,0,instructions1,NULL,PennController,4,_Trial_,Start,1791478561182,m,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,54,0,instructions1,NULL,PennController,4,_Header_,Start,1791478561182,m,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,54,0,instructions1,NULL,PennController,4,_Header_,End,1791478561183,m,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,54,0,instructions1,NULL,PennController,4,_Trial_,End,1791478563025,m,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,56,0,practice_intro,NULL,PennController,6,_Trial_,Start,1791478563030,m,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,56,0,practice_intro,NULL,PennController,6,_Header_,Start,1791478563030,m,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,56,0,practice_intro,NULL,PennController,6,_Header_,End,1791478563031,m,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,56,0,practice_intro,NULL,PennController,6,_Trial_,End,1791478563897,m,NULL
+# 14. Number.
+# 15. Image.
+# 16. Colors.
+# 17. Correct.
+# 18. NColors.
+# 19. WrongAttempts.
+# 20. FinalAnswer.
+# 21. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,68,0,training,NULL,PennController,67,_Trial_,Start,1791478563904,m,1,marble.5blue-5pink.jpeg,Blue;Pink,50;50,2,0,50;50,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,68,0,training,NULL,PennController,67,_Header_,Start,1791478563904,m,1,marble.5blue-5pink.jpeg,Blue;Pink,50;50,2,0,50;50,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,68,0,training,NULL,PennController,67,_Header_,End,1791478563905,m,1,marble.5blue-5pink.jpeg,Blue;Pink,50;50,2,0,50;50,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,68,0,training,NULL,PennController,67,_Trial_,End,1791478568444,m,1,marble.5blue-5pink.jpeg,Blue;Pink,50;50,2,0,50;50,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,69,0,training,NULL,PennController,68,_Trial_,Start,1791478568451,m,2,marble.5blue-1green-4pink.jpeg,Blue;Green;Pink,50;10;40,3,0,50;10;40,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,69,0,training,NULL,PennController,68,_Header_,Start,1791478568451,m,2,marble.5blue-1green-4pink.jpeg,Blue;Green;Pink,50;10;40,3,0,50;10;40,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,69,0,training,NULL,PennController,68,_Header_,End,1791478568451,m,2,marble.5blue-1green-4pink.jpeg,Blue;Green;Pink,50;10;40,3,0,50;10;40,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,69,0,training,NULL,PennController,68,_Trial_,End,1791478574014,m,2,marble.5blue-1green-4pink.jpeg,Blue;Green;Pink,50;10;40,3,0,50;10;40,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,70,0,training,NULL,PennController,69,_Trial_,Start,1791478574020,m,3,marble.3blue-3green-4pink.jpeg,Blue;Green;Pink,30;30;40,3,0,30;30;40,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,70,0,training,NULL,PennController,69,_Header_,Start,1791478574020,m,3,marble.3blue-3green-4pink.jpeg,Blue;Green;Pink,30;30;40,3,0,30;30;40,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,70,0,training,NULL,PennController,69,_Header_,End,1791478574021,m,3,marble.3blue-3green-4pink.jpeg,Blue;Green;Pink,30;30;40,3,0,30;30;40,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,70,0,training,NULL,PennController,69,_Trial_,End,1791478581338,m,3,marble.3blue-3green-4pink.jpeg,Blue;Green;Pink,30;30;40,3,0,30;30;40,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,71,0,training,NULL,PennController,70,_Trial_,Start,1791478581343,m,4,marble.2blue-6green-2pink.jpeg,Blue;Green;Pink,20;60;20,3,0,20;60;20,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,71,0,training,NULL,PennController,70,_Header_,Start,1791478581343,m,4,marble.2blue-6green-2pink.jpeg,Blue;Green;Pink,20;60;20,3,0,20;60;20,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,71,0,training,NULL,PennController,70,_Header_,End,1791478581343,m,4,marble.2blue-6green-2pink.jpeg,Blue;Green;Pink,20;60;20,3,0,20;60;20,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,71,0,training,NULL,PennController,70,_Trial_,End,1791478589478,m,4,marble.2blue-6green-2pink.jpeg,Blue;Green;Pink,20;60;20,3,0,20;60;20,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,72,0,training,NULL,PennController,71,_Trial_,Start,1791478589483,m,5,marble.3blue-3green-1pink-3yellow.jpeg,Blue;Green;Pink;Yellow,30;30;10;30,4,0,30;30;10;30,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,72,0,training,NULL,PennController,71,_Header_,Start,1791478589483,m,5,marble.3blue-3green-1pink-3yellow.jpeg,Blue;Green;Pink;Yellow,30;30;10;30,4,0,30;30;10;30,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,72,0,training,NULL,PennController,71,_Header_,End,1791478589484,m,5,marble.3blue-3green-1pink-3yellow.jpeg,Blue;Green;Pink;Yellow,30;30;10;30,4,0,30;30;10;30,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,72,0,training,NULL,PennController,71,_Trial_,End,1791478596310,m,5,marble.3blue-3green-1pink-3yellow.jpeg,Blue;Green;Pink;Yellow,30;30;10;30,4,0,30;30;10;30,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,73,0,training,NULL,PennController,72,_Trial_,Start,1791478596318,m,6,marble.4blue-2green-2pink-2yellow.jpeg,Blue;Green;Pink;Yellow,40;20;20;20,4,0,40;20;20;20,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,73,0,training,NULL,PennController,72,_Header_,Start,1791478596318,m,6,marble.4blue-2green-2pink-2yellow.jpeg,Blue;Green;Pink;Yellow,40;20;20;20,4,0,40;20;20;20,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,73,0,training,NULL,PennController,72,_Header_,End,1791478596318,m,6,marble.4blue-2green-2pink-2yellow.jpeg,Blue;Green;Pink;Yellow,40;20;20;20,4,0,40;20;20;20,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,73,0,training,NULL,PennController,72,_Trial_,End,1791478605964,m,6,marble.4blue-2green-2pink-2yellow.jpeg,Blue;Green;Pink;Yellow,40;20;20;20,4,0,40;20;20;20,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,74,0,training,NULL,PennController,73,_Trial_,Start,1791478605970,m,7,marble.1blue-1green-5pink-3yellow.jpeg,Blue;Green;Pink;Yellow,10;10;50;30,4,0,10;10;50;30,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,74,0,training,NULL,PennController,73,_Header_,Start,1791478605970,m,7,marble.1blue-1green-5pink-3yellow.jpeg,Blue;Green;Pink;Yellow,10;10;50;30,4,0,10;10;50;30,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,74,0,training,NULL,PennController,73,_Header_,End,1791478605971,m,7,marble.1blue-1green-5pink-3yellow.jpeg,Blue;Green;Pink;Yellow,10;10;50;30,4,0,10;10;50;30,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,74,0,training,NULL,PennController,73,_Trial_,End,1791478614460,m,7,marble.1blue-1green-5pink-3yellow.jpeg,Blue;Green;Pink;Yellow,10;10;50;30,4,0,10;10;50;30,NULL
+# 14. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,57,0,end_instructions,NULL,PennController,7,_Trial_,Start,1791478614465,m,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,57,0,end_instructions,NULL,PennController,7,_Header_,Start,1791478614465,m,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,57,0,end_instructions,NULL,PennController,7,_Header_,End,1791478614466,m,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,57,0,end_instructions,NULL,PennController,7,_Trial_,End,1791478616890,m,NULL
+# 14. ReferenceCountry.
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,12,0,religion,NULL,PennController,17,_Trial_,Start,1791478616896,m,Cyprus,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,12,0,religion,NULL,PennController,17,_Header_,Start,1791478616896,m,Cyprus,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,12,0,religion,NULL,PennController,17,_Header_,End,1791478616896,m,Cyprus,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,12,0,religion,NULL,PennController,17,_Trial_,End,1791478619166,m,Cyprus,100,0,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,25,0,race,NULL,PennController,30,_Trial_,Start,1791478619172,m,Spain,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,25,0,race,NULL,PennController,30,_Header_,Start,1791478619172,m,Spain,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,25,0,race,NULL,PennController,30,_Header_,End,1791478619172,m,Spain,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,25,0,race,NULL,PennController,30,_Trial_,End,1791478620837,m,Spain,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,34,0,region,NULL,PennController,39,_Trial_,Start,1791478620842,m,Greece,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,34,0,region,NULL,PennController,39,_Header_,Start,1791478620842,m,Greece,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,34,0,region,NULL,PennController,39,_Header_,End,1791478620843,m,Greece,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,34,0,region,NULL,PennController,39,_Trial_,End,1791478622888,m,Greece,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,8,0,religion,NULL,PennController,13,_Trial_,Start,1791478622893,m,Germany,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,8,0,religion,NULL,PennController,13,_Header_,Start,1791478622893,m,Germany,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,8,0,religion,NULL,PennController,13,_Header_,End,1791478622893,m,Germany,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,8,0,religion,NULL,PennController,13,_Trial_,End,1791478624792,m,Germany,100,0,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,30,0,race,NULL,PennController,35,_Trial_,Start,1791478624796,m,Armenia,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,30,0,race,NULL,PennController,35,_Header_,Start,1791478624796,m,Armenia,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,30,0,race,NULL,PennController,35,_Header_,End,1791478624797,m,Armenia,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,30,0,race,NULL,PennController,35,_Trial_,End,1791478626686,m,Armenia,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,44,0,region,NULL,PennController,49,_Trial_,Start,1791478626691,m,Sudan,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,44,0,region,NULL,PennController,49,_Header_,Start,1791478626691,m,Sudan,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,44,0,region,NULL,PennController,49,_Header_,End,1791478626692,m,Sudan,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,44,0,region,NULL,PennController,49,_Trial_,End,1791478628551,m,Sudan,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,11,0,religion,NULL,PennController,16,_Trial_,Start,1791478628556,m,United Kingdom,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,11,0,religion,NULL,PennController,16,_Header_,Start,1791478628556,m,United Kingdom,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,11,0,religion,NULL,PennController,16,_Header_,End,1791478628556,m,United Kingdom,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,11,0,religion,NULL,PennController,16,_Trial_,End,1791478630267,m,United Kingdom,100,0,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,27,0,race,NULL,PennController,32,_Trial_,Start,1791478630274,m,Cyprus,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,27,0,race,NULL,PennController,32,_Header_,Start,1791478630274,m,Cyprus,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,27,0,race,NULL,PennController,32,_Header_,End,1791478630274,m,Cyprus,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,27,0,race,NULL,PennController,32,_Trial_,End,1791478631971,m,Cyprus,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,36,0,region,NULL,PennController,41,_Trial_,Start,1791478631974,m,Poland,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,36,0,region,NULL,PennController,41,_Header_,Start,1791478631974,m,Poland,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,36,0,region,NULL,PennController,41,_Header_,End,1791478631975,m,Poland,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,36,0,region,NULL,PennController,41,_Trial_,End,1791478633668,m,Poland,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,16,0,religion,NULL,PennController,21,_Trial_,Start,1791478633673,m,Egypt,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,16,0,religion,NULL,PennController,21,_Header_,Start,1791478633673,m,Egypt,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,16,0,religion,NULL,PennController,21,_Header_,End,1791478633674,m,Egypt,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,16,0,religion,NULL,PennController,21,_Trial_,End,1791478636366,m,Egypt,100,0,0,0,NULL
+# 14. Number.
+# 15. Condition.
+# 16. AttnSliders.
+# 17. AttnTargets.
+# 18. AttnGiven.
+# 19. AttnPass.
+# 20. AttnFailsSoFar.
+# 21. AttnChecksSoFar.
+# 22. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,51,0,attn,NULL,PennController,56,_Trial_,Start,1791478636371,m,4,check,1;2;3;4,20;40;10;30,20;40;10;30,1,0,1,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,51,0,attn,NULL,PennController,56,_Header_,Start,1791478636371,m,4,check,1;2;3;4,20;40;10;30,20;40;10;30,1,0,1,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,51,0,attn,NULL,PennController,56,_Header_,End,1791478636371,m,4,check,1;2;3;4,20;40;10;30,20;40;10;30,1,0,1,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,51,0,attn,NULL,PennController,56,_Trial_,End,1791478645787,m,4,check,1;2;3;4,20;40;10;30,20;40;10;30,1,0,1,NULL
+# 14. ReferenceCountry.
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,23,0,race,NULL,PennController,28,_Trial_,Start,1791478645791,m,Germany,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,23,0,race,NULL,PennController,28,_Header_,Start,1791478645791,m,Germany,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,23,0,race,NULL,PennController,28,_Header_,End,1791478645792,m,Germany,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,23,0,race,NULL,PennController,28,_Trial_,End,1791478649308,m,Germany,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,45,0,region,NULL,PennController,50,_Trial_,Start,1791478649314,m,Armenia,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,45,0,region,NULL,PennController,50,_Header_,Start,1791478649314,m,Armenia,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,45,0,region,NULL,PennController,50,_Header_,End,1791478649315,m,Armenia,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,45,0,region,NULL,PennController,50,_Trial_,End,1791478651081,m,Armenia,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,10,0,religion,NULL,PennController,15,_Trial_,Start,1791478651089,m,Spain,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,10,0,religion,NULL,PennController,15,_Header_,Start,1791478651089,m,Spain,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,10,0,religion,NULL,PennController,15,_Header_,End,1791478651090,m,Spain,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,10,0,religion,NULL,PennController,15,_Trial_,End,1791478652845,m,Spain,100,0,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,22,0,race,NULL,PennController,27,_Trial_,Start,1791478652852,m,Turkey,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,22,0,race,NULL,PennController,27,_Header_,Start,1791478652852,m,Turkey,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,22,0,race,NULL,PennController,27,_Header_,End,1791478652853,m,Turkey,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,22,0,race,NULL,PennController,27,_Trial_,End,1791478654509,m,Turkey,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,42,0,region,NULL,PennController,47,_Trial_,Start,1791478654516,m,Cyprus,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,42,0,region,NULL,PennController,47,_Header_,Start,1791478654516,m,Cyprus,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,42,0,region,NULL,PennController,47,_Header_,End,1791478654516,m,Cyprus,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,42,0,region,NULL,PennController,47,_Trial_,End,1791478656076,m,Cyprus,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,14,0,religion,NULL,PennController,19,_Trial_,Start,1791478656082,m,Sudan,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,14,0,religion,NULL,PennController,19,_Header_,Start,1791478656082,m,Sudan,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,14,0,religion,NULL,PennController,19,_Header_,End,1791478656083,m,Sudan,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,14,0,religion,NULL,PennController,19,_Trial_,End,1791478657572,m,Sudan,100,0,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,21,0,race,NULL,PennController,26,_Trial_,Start,1791478657580,m,Poland,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,21,0,race,NULL,PennController,26,_Header_,Start,1791478657580,m,Poland,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,21,0,race,NULL,PennController,26,_Header_,End,1791478657581,m,Poland,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,21,0,race,NULL,PennController,26,_Trial_,End,1791478659128,m,Poland,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,38,0,region,NULL,PennController,43,_Trial_,Start,1791478659135,m,Germany,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,38,0,region,NULL,PennController,43,_Header_,Start,1791478659135,m,Germany,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,38,0,region,NULL,PennController,43,_Header_,End,1791478659135,m,Germany,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,38,0,region,NULL,PennController,43,_Trial_,End,1791478660678,m,Germany,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,3,0,religion,NULL,PennController,8,_Trial_,Start,1791478660685,m,Afghanistan,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,3,0,religion,NULL,PennController,8,_Header_,Start,1791478660685,m,Afghanistan,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,3,0,religion,NULL,PennController,8,_Header_,End,1791478660685,m,Afghanistan,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,3,0,religion,NULL,PennController,8,_Trial_,End,1791478662324,m,Afghanistan,100,0,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,20,0,race,NULL,PennController,25,_Trial_,Start,1791478662329,m,Nigeria,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,20,0,race,NULL,PennController,25,_Header_,Start,1791478662329,m,Nigeria,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,20,0,race,NULL,PennController,25,_Header_,End,1791478662329,m,Nigeria,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,20,0,race,NULL,PennController,25,_Trial_,End,1791478664118,m,Nigeria,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,43,0,region,NULL,PennController,48,_Trial_,Start,1791478664122,m,Iraq,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,43,0,region,NULL,PennController,48,_Header_,Start,1791478664122,m,Iraq,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,43,0,region,NULL,PennController,48,_Header_,End,1791478664122,m,Iraq,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,43,0,region,NULL,PennController,48,_Trial_,End,1791478666406,m,Iraq,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,17,0,religion,NULL,PennController,22,_Trial_,Start,1791478666411,m,Morocco,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,17,0,religion,NULL,PennController,22,_Header_,Start,1791478666411,m,Morocco,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,17,0,religion,NULL,PennController,22,_Header_,End,1791478666411,m,Morocco,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,17,0,religion,NULL,PennController,22,_Trial_,End,1791478668743,m,Morocco,100,0,0,0,NULL
+# 14. Number.
+# 15. Condition.
+# 16. AttnSliders.
+# 17. AttnTargets.
+# 18. AttnGiven.
+# 19. AttnPass.
+# 20. AttnFailsSoFar.
+# 21. AttnChecksSoFar.
+# 22. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,48,0,attn,NULL,PennController,53,_Trial_,Start,1791478668751,m,1,check,1;2;3;4,20;20;20;40,100;0;0;0,0,1,2,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,48,0,attn,NULL,PennController,53,_Header_,Start,1791478668751,m,1,check,1;2;3;4,20;20;20;40,100;0;0;0,0,1,2,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,48,0,attn,NULL,PennController,53,_Header_,End,1791478668751,m,1,check,1;2;3;4,20;20;20;40,100;0;0;0,0,1,2,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,48,0,attn,NULL,PennController,53,_Trial_,End,1791478673720,m,1,check,1;2;3;4,20;20;20;40,100;0;0;0,0,1,2,NULL
+# 14. ReferenceCountry.
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,18,0,race,NULL,PennController,23,_Trial_,Start,1791478673724,m,Afghanistan,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,18,0,race,NULL,PennController,23,_Header_,Start,1791478673724,m,Afghanistan,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,18,0,race,NULL,PennController,23,_Header_,End,1791478673725,m,Afghanistan,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,18,0,race,NULL,PennController,23,_Trial_,End,1791478675739,m,Afghanistan,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,37,0,region,NULL,PennController,42,_Trial_,Start,1791478675744,m,Turkey,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,37,0,region,NULL,PennController,42,_Header_,Start,1791478675744,m,Turkey,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,37,0,region,NULL,PennController,42,_Header_,End,1791478675744,m,Turkey,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,37,0,region,NULL,PennController,42,_Trial_,End,1791478677311,m,Turkey,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,5,0,religion,NULL,PennController,10,_Trial_,Start,1791478677316,m,Nigeria,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,5,0,religion,NULL,PennController,10,_Header_,Start,1791478677316,m,Nigeria,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,5,0,religion,NULL,PennController,10,_Header_,End,1791478677317,m,Nigeria,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,5,0,religion,NULL,PennController,10,_Trial_,End,1791478680139,m,Nigeria,100,0,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,32,0,race,NULL,PennController,37,_Trial_,Start,1791478680144,m,Morocco,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,32,0,race,NULL,PennController,37,_Header_,Start,1791478680144,m,Morocco,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,32,0,race,NULL,PennController,37,_Header_,End,1791478680144,m,Morocco,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,32,0,race,NULL,PennController,37,_Trial_,End,1791478681583,m,Morocco,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,39,0,region,NULL,PennController,44,_Trial_,Start,1791478681587,m,Pakistan,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,39,0,region,NULL,PennController,44,_Header_,Start,1791478681587,m,Pakistan,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,39,0,region,NULL,PennController,44,_Header_,End,1791478681588,m,Pakistan,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,39,0,region,NULL,PennController,44,_Trial_,End,1791478683127,m,Pakistan,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,4,0,religion,NULL,PennController,9,_Trial_,Start,1791478683136,m,Greece,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,4,0,religion,NULL,PennController,9,_Header_,Start,1791478683136,m,Greece,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,4,0,religion,NULL,PennController,9,_Header_,End,1791478683137,m,Greece,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,4,0,religion,NULL,PennController,9,_Trial_,End,1791478684639,m,Greece,100,0,0,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,19,0,race,NULL,PennController,24,_Trial_,Start,1791478684644,m,Greece,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,19,0,race,NULL,PennController,24,_Header_,Start,1791478684644,m,Greece,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,19,0,race,NULL,PennController,24,_Header_,End,1791478684644,m,Greece,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,19,0,race,NULL,PennController,24,_Trial_,End,1791478687151,m,Greece,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,47,0,region,NULL,PennController,52,_Trial_,Start,1791478687154,m,Morocco,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,47,0,region,NULL,PennController,52,_Header_,Start,1791478687154,m,Morocco,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,47,0,region,NULL,PennController,52,_Header_,End,1791478687154,m,Morocco,100,0,0,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,47,0,region,NULL,PennController,52,_Trial_,End,1791478689678,m,Morocco,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,6,0,religion,NULL,PennController,11,_Trial_,Start,1791478689685,m,Poland,0,0,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,6,0,religion,NULL,PennController,11,_Header_,Start,1791478689685,m,Poland,0,0,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,6,0,religion,NULL,PennController,11,_Header_,End,1791478689685,m,Poland,0,0,100,0,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,6,0,religion,NULL,PennController,11,_Trial_,End,1791478691165,m,Poland,0,0,100,0,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,26,0,race,NULL,PennController,31,_Trial_,Start,1791478691171,m,United Kingdom,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,26,0,race,NULL,PennController,31,_Header_,Start,1791478691171,m,United Kingdom,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,26,0,race,NULL,PennController,31,_Header_,End,1791478691171,m,United Kingdom,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,26,0,race,NULL,PennController,31,_Trial_,End,1791478692635,m,United Kingdom,0,100,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,33,0,region,NULL,PennController,38,_Trial_,Start,1791478692639,m,Afghanistan,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,33,0,region,NULL,PennController,38,_Header_,Start,1791478692639,m,Afghanistan,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,33,0,region,NULL,PennController,38,_Header_,End,1791478692639,m,Afghanistan,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,33,0,region,NULL,PennController,38,_Trial_,End,1791478694637,m,Afghanistan,0,0,0,100,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,7,0,religion,NULL,PennController,12,_Trial_,Start,1791478694642,m,Turkey,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,7,0,religion,NULL,PennController,12,_Header_,Start,1791478694642,m,Turkey,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,7,0,religion,NULL,PennController,12,_Header_,End,1791478694643,m,Turkey,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,7,0,religion,NULL,PennController,12,_Trial_,End,1791478696315,m,Turkey,0,0,0,100,NULL
+# 14. Number.
+# 15. Condition.
+# 16. AttnSliders.
+# 17. AttnTargets.
+# 18. AttnGiven.
+# 19. AttnPass.
+# 20. AttnFailsSoFar.
+# 21. AttnChecksSoFar.
+# 22. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,50,0,attn,NULL,PennController,55,_Trial_,Start,1791478696319,m,3,check,1;2;3;4,70;10;10;10,0;0;0;100,0,2,3,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,50,0,attn,NULL,PennController,55,_Header_,Start,1791478696319,m,3,check,1;2;3;4,70;10;10;10,0;0;0;100,0,2,3,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,50,0,attn,NULL,PennController,55,_Header_,End,1791478696319,m,3,check,1;2;3;4,70;10;10;10,0;0;0;100,0,2,3,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,50,0,attn,NULL,PennController,55,_Trial_,End,1791478698881,m,3,check,1;2;3;4,70;10;10;10,0;0;0;100,0,2,3,NULL
+# 14. ReferenceCountry.
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,24,0,race,NULL,PennController,29,_Trial_,Start,1791478698888,m,Pakistan,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,24,0,race,NULL,PennController,29,_Header_,Start,1791478698888,m,Pakistan,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,24,0,race,NULL,PennController,29,_Header_,End,1791478698889,m,Pakistan,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,24,0,race,NULL,PennController,29,_Trial_,End,1791478700419,m,Pakistan,0,100,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,35,0,region,NULL,PennController,40,_Trial_,Start,1791478700425,m,Nigeria,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,35,0,region,NULL,PennController,40,_Header_,Start,1791478700425,m,Nigeria,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,35,0,region,NULL,PennController,40,_Header_,End,1791478700426,m,Nigeria,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,35,0,region,NULL,PennController,40,_Trial_,End,1791478702409,m,Nigeria,0,0,0,100,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,13,0,religion,NULL,PennController,18,_Trial_,Start,1791478702415,m,Iraq,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,13,0,religion,NULL,PennController,18,_Header_,Start,1791478702415,m,Iraq,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,13,0,religion,NULL,PennController,18,_Header_,End,1791478702416,m,Iraq,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,13,0,religion,NULL,PennController,18,_Trial_,End,1791478703998,m,Iraq,0,0,0,100,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,31,0,race,NULL,PennController,36,_Trial_,Start,1791478704002,m,Egypt,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,31,0,race,NULL,PennController,36,_Header_,Start,1791478704002,m,Egypt,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,31,0,race,NULL,PennController,36,_Header_,End,1791478704003,m,Egypt,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,31,0,race,NULL,PennController,36,_Trial_,End,1791478706722,m,Egypt,0,100,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,40,0,region,NULL,PennController,45,_Trial_,Start,1791478706726,m,Spain,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,40,0,region,NULL,PennController,45,_Header_,Start,1791478706726,m,Spain,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,40,0,region,NULL,PennController,45,_Header_,End,1791478706726,m,Spain,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,40,0,region,NULL,PennController,45,_Trial_,End,1791478708248,m,Spain,0,0,0,100,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,15,0,religion,NULL,PennController,20,_Trial_,Start,1791478708255,m,Armenia,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,15,0,religion,NULL,PennController,20,_Header_,Start,1791478708255,m,Armenia,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,15,0,religion,NULL,PennController,20,_Header_,End,1791478708255,m,Armenia,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,15,0,religion,NULL,PennController,20,_Trial_,End,1791478709787,m,Armenia,0,0,0,100,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,28,0,race,NULL,PennController,33,_Trial_,Start,1791478709791,m,Iraq,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,28,0,race,NULL,PennController,33,_Header_,Start,1791478709791,m,Iraq,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,28,0,race,NULL,PennController,33,_Header_,End,1791478709792,m,Iraq,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,28,0,race,NULL,PennController,33,_Trial_,End,1791478711384,m,Iraq,0,100,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,46,0,region,NULL,PennController,51,_Trial_,Start,1791478711390,m,Egypt,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,46,0,region,NULL,PennController,51,_Header_,Start,1791478711390,m,Egypt,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,46,0,region,NULL,PennController,51,_Header_,End,1791478711390,m,Egypt,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,46,0,region,NULL,PennController,51,_Trial_,End,1791478713124,m,Egypt,0,0,0,100,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,9,0,religion,NULL,PennController,14,_Trial_,Start,1791478713130,m,Pakistan,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,9,0,religion,NULL,PennController,14,_Header_,Start,1791478713130,m,Pakistan,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,9,0,religion,NULL,PennController,14,_Header_,End,1791478713131,m,Pakistan,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,9,0,religion,NULL,PennController,14,_Trial_,End,1791478714723,m,Pakistan,0,0,0,100,NULL
+# 15. White.
+# 16. Non-white.
+# 17. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,29,0,race,NULL,PennController,34,_Trial_,Start,1791478714727,m,Sudan,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,29,0,race,NULL,PennController,34,_Header_,Start,1791478714727,m,Sudan,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,29,0,race,NULL,PennController,34,_Header_,End,1791478714728,m,Sudan,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,29,0,race,NULL,PennController,34,_Trial_,End,1791478716351,m,Sudan,0,100,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,41,0,region,NULL,PennController,46,_Trial_,Start,1791478716354,m,United Kingdom,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,41,0,region,NULL,PennController,46,_Header_,Start,1791478716354,m,United Kingdom,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,41,0,region,NULL,PennController,46,_Header_,End,1791478716355,m,United Kingdom,0,0,0,100,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,41,0,region,NULL,PennController,46,_Trial_,End,1791478718456,m,United Kingdom,0,0,0,100,NULL
+# 14. Number.
+# 15. Condition.
+# 16. AttnSliders.
+# 17. AttnTargets.
+# 18. AttnGiven.
+# 19. AttnPass.
+# 20. AttnFailsSoFar.
+# 21. AttnChecksSoFar.
+# 22. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,49,0,attn,NULL,PennController,54,_Trial_,Start,1791478718462,m,2,check,1;2;3;4,10;50;30;10,0;0;0;100,0,3,4,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,49,0,attn,NULL,PennController,54,_Header_,Start,1791478718462,m,2,check,1;2;3;4,10;50;30;10,0;0;0;100,0,3,4,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,49,0,attn,NULL,PennController,54,_Header_,End,1791478718462,m,2,check,1;2;3;4,10;50;30;10,0;0;0;100,0,3,4,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,49,0,attn,NULL,PennController,54,_Trial_,End,1791478723185,m,2,check,1;2;3;4,10;50;30;10,0;0;0;100,0,3,4,NULL
+# 14. NativeLang.
+# 15. OtherLangs.
+# 16. Gender.
+# 17. Education.
+# 18. Comments.
+# 19. Comments.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,53,0,demo,NULL,PennController,3,_Trial_,Start,1791478723188,m,m,%2C,undefined,undefined,undefined,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,53,0,demo,NULL,PennController,3,_Header_,Start,1791478723188,m,m,%2C,undefined,undefined,undefined,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,53,0,demo,NULL,PennController,3,_Header_,End,1791478723189,m,m,%2C,undefined,undefined,undefined,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,53,0,demo,NULL,TextInput,NativeLang,First,,1791478725074,m,m,%2C,undefined,undefined,undefined,m
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,53,0,demo,NULL,TextInput,Gender,First,,1791478727608,m,m,%2C,undefined,undefined,undefined,.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,53,0,demo,NULL,TextInput,Education,First,,1791478728625,m,m,%2C,undefined,undefined,undefined,.
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,53,0,demo,NULL,TextInput,NativeLang,Final,m,1791478731591,m,m,%2C,undefined,undefined,undefined,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,53,0,demo,NULL,TextInput,Gender,Final,.,1791478731591,m,m,%2C,undefined,undefined,undefined,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,53,0,demo,NULL,TextInput,Education,Final,.,1791478731593,m,m,%2C,undefined,undefined,undefined,NULL
+1791478731,7846b0aeb704580703e877edd0c74f67,PennController,53,0,demo,NULL,PennController,3,_Trial_,End,1791478731596,m,m,%2C,undefined,undefined,undefined,NULL
+#
+# Results on Tue, 20 Oct 2026 01:16:34 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. ID.
+# 15. Comments.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,52,0,consent,NULL,PennController,2,_Trial_,Start,1792457737585,WHOOPEE,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,52,0,consent,NULL,PennController,2,_Header_,Start,1792457737585,WHOOPEE,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,52,0,consent,NULL,PennController,2,_Header_,End,1792457737586,WHOOPEE,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,52,0,consent,NULL,TextInput,ID,First,,1792457828088,WHOOPEE,WHOOPEE,CapsLock
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,52,0,consent,NULL,TextInput,ID,Final,WHOOPEE,1792457834143,WHOOPEE,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,52,0,consent,NULL,PennController,2,_Trial_,End,1792457834143,WHOOPEE,WHOOPEE,NULL
+# 14. Comments.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,54,0,instructions1,NULL,PennController,4,_Trial_,Start,1792457834154,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,54,0,instructions1,NULL,PennController,4,_Header_,Start,1792457834154,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,54,0,instructions1,NULL,PennController,4,_Header_,End,1792457834154,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,54,0,instructions1,NULL,PennController,4,_Trial_,End,1792457935880,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,55,0,instructions2,NULL,PennController,5,_Trial_,Start,1792457935888,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,55,0,instructions2,NULL,PennController,5,_Header_,Start,1792457935888,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,55,0,instructions2,NULL,PennController,5,_Header_,End,1792457935888,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,55,0,instructions2,NULL,PennController,5,_Trial_,End,1792457939697,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,56,0,practice_intro,NULL,PennController,6,_Trial_,Start,1792457939704,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,56,0,practice_intro,NULL,PennController,6,_Header_,Start,1792457939704,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,56,0,practice_intro,NULL,PennController,6,_Header_,End,1792457939704,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,56,0,practice_intro,NULL,PennController,6,_Trial_,End,1792457981950,WHOOPEE,NULL
+# 14. Number.
+# 15. Image.
+# 16. Colors.
+# 17. Correct.
+# 18. NColors.
+# 19. WrongAttempts.
+# 20. FinalAnswer.
+# 21. Comments.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,68,0,training,NULL,PennController,67,_Trial_,Start,1792457981958,WHOOPEE,1,marble.5blue-5pink.jpeg,Blue;Pink,50;50,2,0,50;50,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,68,0,training,NULL,PennController,67,_Header_,Start,1792457981958,WHOOPEE,1,marble.5blue-5pink.jpeg,Blue;Pink,50;50,2,0,50;50,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,68,0,training,NULL,PennController,67,_Header_,End,1792457981958,WHOOPEE,1,marble.5blue-5pink.jpeg,Blue;Pink,50;50,2,0,50;50,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,68,0,training,NULL,PennController,67,_Trial_,End,1792457993031,WHOOPEE,1,marble.5blue-5pink.jpeg,Blue;Pink,50;50,2,0,50;50,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,69,0,training,NULL,PennController,68,_Trial_,Start,1792457993038,WHOOPEE,2,marble.5blue-1green-4pink.jpeg,Blue;Green;Pink,50;10;40,3,0,50;10;40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,69,0,training,NULL,PennController,68,_Header_,Start,1792457993038,WHOOPEE,2,marble.5blue-1green-4pink.jpeg,Blue;Green;Pink,50;10;40,3,0,50;10;40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,69,0,training,NULL,PennController,68,_Header_,End,1792457993038,WHOOPEE,2,marble.5blue-1green-4pink.jpeg,Blue;Green;Pink,50;10;40,3,0,50;10;40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,69,0,training,NULL,PennController,68,_Trial_,End,1792458005552,WHOOPEE,2,marble.5blue-1green-4pink.jpeg,Blue;Green;Pink,50;10;40,3,0,50;10;40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,70,0,training,NULL,PennController,69,_Trial_,Start,1792458005558,WHOOPEE,3,marble.3blue-3green-4pink.jpeg,Blue;Green;Pink,30;30;40,3,0,30;30;40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,70,0,training,NULL,PennController,69,_Header_,Start,1792458005558,WHOOPEE,3,marble.3blue-3green-4pink.jpeg,Blue;Green;Pink,30;30;40,3,0,30;30;40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,70,0,training,NULL,PennController,69,_Header_,End,1792458005558,WHOOPEE,3,marble.3blue-3green-4pink.jpeg,Blue;Green;Pink,30;30;40,3,0,30;30;40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,70,0,training,NULL,PennController,69,_Trial_,End,1792458015812,WHOOPEE,3,marble.3blue-3green-4pink.jpeg,Blue;Green;Pink,30;30;40,3,0,30;30;40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,71,0,training,NULL,PennController,70,_Trial_,Start,1792458015819,WHOOPEE,4,marble.2blue-6green-2pink.jpeg,Blue;Green;Pink,20;60;20,3,0,20;60;20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,71,0,training,NULL,PennController,70,_Header_,Start,1792458015819,WHOOPEE,4,marble.2blue-6green-2pink.jpeg,Blue;Green;Pink,20;60;20,3,0,20;60;20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,71,0,training,NULL,PennController,70,_Header_,End,1792458015819,WHOOPEE,4,marble.2blue-6green-2pink.jpeg,Blue;Green;Pink,20;60;20,3,0,20;60;20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,71,0,training,NULL,PennController,70,_Trial_,End,1792458032719,WHOOPEE,4,marble.2blue-6green-2pink.jpeg,Blue;Green;Pink,20;60;20,3,0,20;60;20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,72,0,training,NULL,PennController,71,_Trial_,Start,1792458032721,WHOOPEE,5,marble.3blue-3green-1pink-3yellow.jpeg,Blue;Green;Pink;Yellow,30;30;10;30,4,0,30;30;10;30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,72,0,training,NULL,PennController,71,_Header_,Start,1792458032721,WHOOPEE,5,marble.3blue-3green-1pink-3yellow.jpeg,Blue;Green;Pink;Yellow,30;30;10;30,4,0,30;30;10;30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,72,0,training,NULL,PennController,71,_Header_,End,1792458032722,WHOOPEE,5,marble.3blue-3green-1pink-3yellow.jpeg,Blue;Green;Pink;Yellow,30;30;10;30,4,0,30;30;10;30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,72,0,training,NULL,PennController,71,_Trial_,End,1792458046570,WHOOPEE,5,marble.3blue-3green-1pink-3yellow.jpeg,Blue;Green;Pink;Yellow,30;30;10;30,4,0,30;30;10;30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,73,0,training,NULL,PennController,72,_Trial_,Start,1792458046575,WHOOPEE,6,marble.4blue-2green-2pink-2yellow.jpeg,Blue;Green;Pink;Yellow,40;20;20;20,4,0,40;20;20;20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,73,0,training,NULL,PennController,72,_Header_,Start,1792458046575,WHOOPEE,6,marble.4blue-2green-2pink-2yellow.jpeg,Blue;Green;Pink;Yellow,40;20;20;20,4,0,40;20;20;20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,73,0,training,NULL,PennController,72,_Header_,End,1792458046575,WHOOPEE,6,marble.4blue-2green-2pink-2yellow.jpeg,Blue;Green;Pink;Yellow,40;20;20;20,4,0,40;20;20;20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,73,0,training,NULL,PennController,72,_Trial_,End,1792458074583,WHOOPEE,6,marble.4blue-2green-2pink-2yellow.jpeg,Blue;Green;Pink;Yellow,40;20;20;20,4,0,40;20;20;20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,74,0,training,NULL,PennController,73,_Trial_,Start,1792458074590,WHOOPEE,7,marble.1blue-1green-5pink-3yellow.jpeg,Blue;Green;Pink;Yellow,10;10;50;30,4,0,10;10;50;30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,74,0,training,NULL,PennController,73,_Header_,Start,1792458074590,WHOOPEE,7,marble.1blue-1green-5pink-3yellow.jpeg,Blue;Green;Pink;Yellow,10;10;50;30,4,0,10;10;50;30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,74,0,training,NULL,PennController,73,_Header_,End,1792458074590,WHOOPEE,7,marble.1blue-1green-5pink-3yellow.jpeg,Blue;Green;Pink;Yellow,10;10;50;30,4,0,10;10;50;30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,74,0,training,NULL,PennController,73,_Trial_,End,1792458087658,WHOOPEE,7,marble.1blue-1green-5pink-3yellow.jpeg,Blue;Green;Pink;Yellow,10;10;50;30,4,0,10;10;50;30,NULL
+# 14. Comments.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,55,0,instructions2,NULL,PennController,5,_Trial_,Start,1792458087663,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,55,0,instructions2,NULL,PennController,5,_Header_,Start,1792458087663,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,55,0,instructions2,NULL,PennController,5,_Header_,End,1792458087663,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,55,0,instructions2,NULL,PennController,5,_Trial_,End,1792458092149,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,57,0,end_instructions,NULL,PennController,7,_Trial_,Start,1792458092153,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,57,0,end_instructions,NULL,PennController,7,_Header_,Start,1792458092153,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,57,0,end_instructions,NULL,PennController,7,_Header_,End,1792458092153,WHOOPEE,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,57,0,end_instructions,NULL,PennController,7,_Trial_,End,1792458215955,WHOOPEE,NULL
+# 14. ReferenceCountry.
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,39,0,region,NULL,PennController,44,_Trial_,Start,1792458215959,WHOOPEE,Pakistan,0,0,100,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,39,0,region,NULL,PennController,44,_Header_,Start,1792458215959,WHOOPEE,Pakistan,0,0,100,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,39,0,region,NULL,PennController,44,_Header_,End,1792458215959,WHOOPEE,Pakistan,0,0,100,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,39,0,region,NULL,PennController,44,_Trial_,End,1792458228744,WHOOPEE,Pakistan,0,0,100,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,16,0,religion,NULL,PennController,21,_Trial_,Start,1792458228748,WHOOPEE,Egypt,20,20,30,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,16,0,religion,NULL,PennController,21,_Header_,Start,1792458228748,WHOOPEE,Egypt,20,20,30,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,16,0,religion,NULL,PennController,21,_Header_,End,1792458228748,WHOOPEE,Egypt,20,20,30,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,16,0,religion,NULL,PennController,21,_Trial_,End,1792458254242,WHOOPEE,Egypt,20,20,30,30,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,24,0,race,NULL,PennController,29,_Trial_,Start,1792458254248,WHOOPEE,Pakistan,20,30,10,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,24,0,race,NULL,PennController,29,_Header_,Start,1792458254248,WHOOPEE,Pakistan,20,30,10,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,24,0,race,NULL,PennController,29,_Header_,End,1792458254248,WHOOPEE,Pakistan,20,30,10,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,24,0,race,NULL,PennController,29,_Trial_,End,1792458277217,WHOOPEE,Pakistan,20,30,10,40,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,47,0,region,NULL,PennController,52,_Trial_,Start,1792458277221,WHOOPEE,Morocco,20,50,30,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,47,0,region,NULL,PennController,52,_Header_,Start,1792458277221,WHOOPEE,Morocco,20,50,30,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,47,0,region,NULL,PennController,52,_Header_,End,1792458277221,WHOOPEE,Morocco,20,50,30,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,47,0,region,NULL,PennController,52,_Trial_,End,1792458295901,WHOOPEE,Morocco,20,50,30,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,13,0,religion,NULL,PennController,18,_Trial_,Start,1792458295906,WHOOPEE,Iraq,20,40,30,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,13,0,religion,NULL,PennController,18,_Header_,Start,1792458295906,WHOOPEE,Iraq,20,40,30,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,13,0,religion,NULL,PennController,18,_Header_,End,1792458295906,WHOOPEE,Iraq,20,40,30,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,13,0,religion,NULL,PennController,18,_Trial_,End,1792458316529,WHOOPEE,Iraq,20,40,30,10,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,26,0,race,NULL,PennController,31,_Trial_,Start,1792458316533,WHOOPEE,United Kingdom,40,10,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,26,0,race,NULL,PennController,31,_Header_,Start,1792458316533,WHOOPEE,United Kingdom,40,10,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,26,0,race,NULL,PennController,31,_Header_,End,1792458316533,WHOOPEE,United Kingdom,40,10,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,26,0,race,NULL,PennController,31,_Trial_,End,1792458334172,WHOOPEE,United Kingdom,40,10,30,20,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,46,0,region,NULL,PennController,51,_Trial_,Start,1792458334175,WHOOPEE,Egypt,10,30,50,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,46,0,region,NULL,PennController,51,_Header_,Start,1792458334175,WHOOPEE,Egypt,10,30,50,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,46,0,region,NULL,PennController,51,_Header_,End,1792458334175,WHOOPEE,Egypt,10,30,50,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,46,0,region,NULL,PennController,51,_Trial_,End,1792458355189,WHOOPEE,Egypt,10,30,50,10,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,9,0,religion,NULL,PennController,14,_Trial_,Start,1792458355192,WHOOPEE,Pakistan,20,50,20,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,9,0,religion,NULL,PennController,14,_Header_,Start,1792458355192,WHOOPEE,Pakistan,20,50,20,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,9,0,religion,NULL,PennController,14,_Header_,End,1792458355192,WHOOPEE,Pakistan,20,50,20,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,9,0,religion,NULL,PennController,14,_Trial_,End,1792458366895,WHOOPEE,Pakistan,20,50,20,10,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,18,0,race,NULL,PennController,23,_Trial_,Start,1792458366901,WHOOPEE,Afghanistan,20,20,20,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,18,0,race,NULL,PennController,23,_Header_,Start,1792458366901,WHOOPEE,Afghanistan,20,20,20,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,18,0,race,NULL,PennController,23,_Header_,End,1792458366901,WHOOPEE,Afghanistan,20,20,20,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,18,0,race,NULL,PennController,23,_Trial_,End,1792458379997,WHOOPEE,Afghanistan,20,20,20,40,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,35,0,region,NULL,PennController,40,_Trial_,Start,1792458380004,WHOOPEE,Nigeria,0,100,0,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,35,0,region,NULL,PennController,40,_Header_,Start,1792458380004,WHOOPEE,Nigeria,0,100,0,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,35,0,region,NULL,PennController,40,_Header_,End,1792458380004,WHOOPEE,Nigeria,0,100,0,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,35,0,region,NULL,PennController,40,_Trial_,End,1792458384454,WHOOPEE,Nigeria,0,100,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,10,0,religion,NULL,PennController,15,_Trial_,Start,1792458384457,WHOOPEE,Spain,50,30,10,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,10,0,religion,NULL,PennController,15,_Header_,Start,1792458384457,WHOOPEE,Spain,50,30,10,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,10,0,religion,NULL,PennController,15,_Header_,End,1792458384457,WHOOPEE,Spain,50,30,10,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,10,0,religion,NULL,PennController,15,_Trial_,End,1792458391310,WHOOPEE,Spain,50,30,10,10,NULL
+# 14. Number.
+# 15. Condition.
+# 16. AttnSliders.
+# 17. AttnTargets.
+# 18. AttnGiven.
+# 19. AttnPass.
+# 20. AttnFailsSoFar.
+# 21. AttnChecksSoFar.
+# 22. Comments.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,50,0,attn,NULL,PennController,55,_Trial_,Start,1792458391315,WHOOPEE,3,check,1;2;3;4,70;10;10;10,70;10;10;10,1,0,1,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,50,0,attn,NULL,PennController,55,_Header_,Start,1792458391315,WHOOPEE,3,check,1;2;3;4,70;10;10;10,70;10;10;10,1,0,1,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,50,0,attn,NULL,PennController,55,_Header_,End,1792458391315,WHOOPEE,3,check,1;2;3;4,70;10;10;10,70;10;10;10,1,0,1,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,50,0,attn,NULL,PennController,55,_Trial_,End,1792458402782,WHOOPEE,3,check,1;2;3;4,70;10;10;10,70;10;10;10,1,0,1,NULL
+# 14. ReferenceCountry.
+# 15. White.
+# 16. Black.
+# 17. Asian.
+# 18. Other.
+# 19. Comments.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,30,0,race,NULL,PennController,35,_Trial_,Start,1792458402788,WHOOPEE,Armenia,20,20,40,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,30,0,race,NULL,PennController,35,_Header_,Start,1792458402788,WHOOPEE,Armenia,20,20,40,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,30,0,race,NULL,PennController,35,_Header_,End,1792458402788,WHOOPEE,Armenia,20,20,40,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,30,0,race,NULL,PennController,35,_Trial_,End,1792458427653,WHOOPEE,Armenia,20,20,40,20,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,36,0,region,NULL,PennController,41,_Trial_,Start,1792458427655,WHOOPEE,Poland,0,0,0,100,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,36,0,region,NULL,PennController,41,_Header_,Start,1792458427655,WHOOPEE,Poland,0,0,0,100,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,36,0,region,NULL,PennController,41,_Header_,End,1792458427655,WHOOPEE,Poland,0,0,0,100,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,36,0,region,NULL,PennController,41,_Trial_,End,1792458431434,WHOOPEE,Poland,0,0,0,100,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,8,0,religion,NULL,PennController,13,_Trial_,Start,1792458431440,WHOOPEE,Germany,50,20,10,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,8,0,religion,NULL,PennController,13,_Header_,Start,1792458431440,WHOOPEE,Germany,50,20,10,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,8,0,religion,NULL,PennController,13,_Header_,End,1792458431440,WHOOPEE,Germany,50,20,10,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,8,0,religion,NULL,PennController,13,_Trial_,End,1792458443215,WHOOPEE,Germany,50,20,10,20,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,23,0,race,NULL,PennController,28,_Trial_,Start,1792458443222,WHOOPEE,Germany,40,20,10,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,23,0,race,NULL,PennController,28,_Header_,Start,1792458443222,WHOOPEE,Germany,40,20,10,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,23,0,race,NULL,PennController,28,_Header_,End,1792458443223,WHOOPEE,Germany,40,20,10,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,23,0,race,NULL,PennController,28,_Trial_,End,1792458470551,WHOOPEE,Germany,40,20,10,30,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,45,0,region,NULL,PennController,50,_Trial_,Start,1792458470554,WHOOPEE,Armenia,0,0,100,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,45,0,region,NULL,PennController,50,_Header_,Start,1792458470554,WHOOPEE,Armenia,0,0,100,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,45,0,region,NULL,PennController,50,_Header_,End,1792458470555,WHOOPEE,Armenia,0,0,100,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,45,0,region,NULL,PennController,50,_Trial_,End,1792458474057,WHOOPEE,Armenia,0,0,100,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,15,0,religion,NULL,PennController,20,_Trial_,Start,1792458474060,WHOOPEE,Armenia,20,40,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,15,0,religion,NULL,PennController,20,_Header_,Start,1792458474060,WHOOPEE,Armenia,20,40,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,15,0,religion,NULL,PennController,20,_Header_,End,1792458474060,WHOOPEE,Armenia,20,40,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,15,0,religion,NULL,PennController,20,_Trial_,End,1792458483577,WHOOPEE,Armenia,20,40,20,20,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,25,0,race,NULL,PennController,30,_Trial_,Start,1792458483580,WHOOPEE,Spain,30,20,10,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,25,0,race,NULL,PennController,30,_Header_,Start,1792458483580,WHOOPEE,Spain,30,20,10,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,25,0,race,NULL,PennController,30,_Header_,End,1792458483581,WHOOPEE,Spain,30,20,10,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,25,0,race,NULL,PennController,30,_Trial_,End,1792458490303,WHOOPEE,Spain,30,20,10,40,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,41,0,region,NULL,PennController,46,_Trial_,Start,1792458490309,WHOOPEE,United Kingdom,0,0,0,100,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,41,0,region,NULL,PennController,46,_Header_,Start,1792458490309,WHOOPEE,United Kingdom,0,0,0,100,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,41,0,region,NULL,PennController,46,_Header_,End,1792458490309,WHOOPEE,United Kingdom,0,0,0,100,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,41,0,region,NULL,PennController,46,_Trial_,End,1792458493885,WHOOPEE,United Kingdom,0,0,0,100,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,11,0,religion,NULL,PennController,16,_Trial_,Start,1792458493890,WHOOPEE,United Kingdom,40,10,20,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,11,0,religion,NULL,PennController,16,_Header_,Start,1792458493890,WHOOPEE,United Kingdom,40,10,20,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,11,0,religion,NULL,PennController,16,_Header_,End,1792458493890,WHOOPEE,United Kingdom,40,10,20,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,11,0,religion,NULL,PennController,16,_Trial_,End,1792458507952,WHOOPEE,United Kingdom,40,10,20,30,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,19,0,race,NULL,PennController,24,_Trial_,Start,1792458507957,WHOOPEE,Greece,30,20,20,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,19,0,race,NULL,PennController,24,_Header_,Start,1792458507957,WHOOPEE,Greece,30,20,20,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,19,0,race,NULL,PennController,24,_Header_,End,1792458507958,WHOOPEE,Greece,30,20,20,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,19,0,race,NULL,PennController,24,_Trial_,End,1792458528611,WHOOPEE,Greece,30,20,20,30,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,34,0,region,NULL,PennController,39,_Trial_,Start,1792458528617,WHOOPEE,Greece,0,0,20,80,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,34,0,region,NULL,PennController,39,_Header_,Start,1792458528617,WHOOPEE,Greece,0,0,20,80,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,34,0,region,NULL,PennController,39,_Header_,End,1792458528618,WHOOPEE,Greece,0,0,20,80,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,34,0,region,NULL,PennController,39,_Trial_,End,1792458557256,WHOOPEE,Greece,0,0,20,80,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,4,0,religion,NULL,PennController,9,_Trial_,Start,1792458557262,WHOOPEE,Greece,50,20,10,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,4,0,religion,NULL,PennController,9,_Header_,Start,1792458557262,WHOOPEE,Greece,50,20,10,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,4,0,religion,NULL,PennController,9,_Header_,End,1792458557262,WHOOPEE,Greece,50,20,10,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,4,0,religion,NULL,PennController,9,_Trial_,End,1792458568674,WHOOPEE,Greece,50,20,10,20,NULL
+# 14. Number.
+# 15. Condition.
+# 16. AttnSliders.
+# 17. AttnTargets.
+# 18. AttnGiven.
+# 19. AttnPass.
+# 20. AttnFailsSoFar.
+# 21. AttnChecksSoFar.
+# 22. Comments.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,51,0,attn,NULL,PennController,56,_Trial_,Start,1792458568677,WHOOPEE,4,check,1;2;3;4,20;40;10;30,20;40;10;30,1,0,2,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,51,0,attn,NULL,PennController,56,_Header_,Start,1792458568677,WHOOPEE,4,check,1;2;3;4,20;40;10;30,20;40;10;30,1,0,2,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,51,0,attn,NULL,PennController,56,_Header_,End,1792458568677,WHOOPEE,4,check,1;2;3;4,20;40;10;30,20;40;10;30,1,0,2,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,51,0,attn,NULL,PennController,56,_Trial_,End,1792458581528,WHOOPEE,4,check,1;2;3;4,20;40;10;30,20;40;10;30,1,0,2,NULL
+# 14. ReferenceCountry.
+# 15. White.
+# 16. Black.
+# 17. Asian.
+# 18. Other.
+# 19. Comments.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,22,0,race,NULL,PennController,27,_Trial_,Start,1792458581532,WHOOPEE,Turkey,30,20,10,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,22,0,race,NULL,PennController,27,_Header_,Start,1792458581532,WHOOPEE,Turkey,30,20,10,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,22,0,race,NULL,PennController,27,_Header_,End,1792458581533,WHOOPEE,Turkey,30,20,10,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,22,0,race,NULL,PennController,27,_Trial_,End,1792458614211,WHOOPEE,Turkey,30,20,10,40,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,37,0,region,NULL,PennController,42,_Trial_,Start,1792458614215,WHOOPEE,Turkey,10,10,60,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,37,0,region,NULL,PennController,42,_Header_,Start,1792458614215,WHOOPEE,Turkey,10,10,60,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,37,0,region,NULL,PennController,42,_Header_,End,1792458614215,WHOOPEE,Turkey,10,10,60,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,37,0,region,NULL,PennController,42,_Trial_,End,1792458659475,WHOOPEE,Turkey,10,10,60,20,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,7,0,religion,NULL,PennController,12,_Trial_,Start,1792458659479,WHOOPEE,Turkey,20,30,20,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,7,0,religion,NULL,PennController,12,_Header_,Start,1792458659479,WHOOPEE,Turkey,20,30,20,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,7,0,religion,NULL,PennController,12,_Header_,End,1792458659479,WHOOPEE,Turkey,20,30,20,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,7,0,religion,NULL,PennController,12,_Trial_,End,1792458687452,WHOOPEE,Turkey,20,30,20,30,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,28,0,race,NULL,PennController,33,_Trial_,Start,1792458687455,WHOOPEE,Iraq,20,10,30,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,28,0,race,NULL,PennController,33,_Header_,Start,1792458687455,WHOOPEE,Iraq,20,10,30,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,28,0,race,NULL,PennController,33,_Header_,End,1792458687455,WHOOPEE,Iraq,20,10,30,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,28,0,race,NULL,PennController,33,_Trial_,End,1792458707446,WHOOPEE,Iraq,20,10,30,40,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,38,0,region,NULL,PennController,43,_Trial_,Start,1792458707449,WHOOPEE,Germany,0,0,0,100,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,38,0,region,NULL,PennController,43,_Header_,Start,1792458707449,WHOOPEE,Germany,0,0,0,100,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,38,0,region,NULL,PennController,43,_Header_,End,1792458707450,WHOOPEE,Germany,0,0,0,100,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,38,0,region,NULL,PennController,43,_Trial_,End,1792458710260,WHOOPEE,Germany,0,0,0,100,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,17,0,religion,NULL,PennController,22,_Trial_,Start,1792458710264,WHOOPEE,Morocco,30,20,20,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,17,0,religion,NULL,PennController,22,_Header_,Start,1792458710264,WHOOPEE,Morocco,30,20,20,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,17,0,religion,NULL,PennController,22,_Header_,End,1792458710264,WHOOPEE,Morocco,30,20,20,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,17,0,religion,NULL,PennController,22,_Trial_,End,1792458723579,WHOOPEE,Morocco,30,20,20,30,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,32,0,race,NULL,PennController,37,_Trial_,Start,1792458723581,WHOOPEE,Morocco,10,40,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,32,0,race,NULL,PennController,37,_Header_,Start,1792458723581,WHOOPEE,Morocco,10,40,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,32,0,race,NULL,PennController,37,_Header_,End,1792458723582,WHOOPEE,Morocco,10,40,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,32,0,race,NULL,PennController,37,_Trial_,End,1792458745249,WHOOPEE,Morocco,10,40,30,20,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,44,0,region,NULL,PennController,49,_Trial_,Start,1792458745253,WHOOPEE,Sudan,0,100,0,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,44,0,region,NULL,PennController,49,_Header_,Start,1792458745253,WHOOPEE,Sudan,0,100,0,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,44,0,region,NULL,PennController,49,_Header_,End,1792458745253,WHOOPEE,Sudan,0,100,0,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,44,0,region,NULL,PennController,49,_Trial_,End,1792458748716,WHOOPEE,Sudan,0,100,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,5,0,religion,NULL,PennController,10,_Trial_,Start,1792458748721,WHOOPEE,Nigeria,30,30,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,5,0,religion,NULL,PennController,10,_Header_,Start,1792458748721,WHOOPEE,Nigeria,30,30,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,5,0,religion,NULL,PennController,10,_Header_,End,1792458748721,WHOOPEE,Nigeria,30,30,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,5,0,religion,NULL,PennController,10,_Trial_,End,1792458761693,WHOOPEE,Nigeria,30,30,20,20,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,20,0,race,NULL,PennController,25,_Trial_,Start,1792458761698,WHOOPEE,Nigeria,20,40,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,20,0,race,NULL,PennController,25,_Header_,Start,1792458761698,WHOOPEE,Nigeria,20,40,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,20,0,race,NULL,PennController,25,_Header_,End,1792458761698,WHOOPEE,Nigeria,20,40,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,20,0,race,NULL,PennController,25,_Trial_,End,1792458775305,WHOOPEE,Nigeria,20,40,20,20,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,40,0,region,NULL,PennController,45,_Trial_,Start,1792458775308,WHOOPEE,Spain,20,20,20,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,40,0,region,NULL,PennController,45,_Header_,Start,1792458775308,WHOOPEE,Spain,20,20,20,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,40,0,region,NULL,PennController,45,_Header_,End,1792458775309,WHOOPEE,Spain,20,20,20,40,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,40,0,region,NULL,PennController,45,_Trial_,End,1792458793337,WHOOPEE,Spain,20,20,20,40,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,6,0,religion,NULL,PennController,11,_Trial_,Start,1792458793341,WHOOPEE,Poland,40,20,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,6,0,religion,NULL,PennController,11,_Header_,Start,1792458793341,WHOOPEE,Poland,40,20,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,6,0,religion,NULL,PennController,11,_Header_,End,1792458793342,WHOOPEE,Poland,40,20,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,6,0,religion,NULL,PennController,11,_Trial_,End,1792458812419,WHOOPEE,Poland,40,20,20,20,NULL
+# 14. Number.
+# 15. Condition.
+# 16. AttnSliders.
+# 17. AttnTargets.
+# 18. AttnGiven.
+# 19. AttnPass.
+# 20. AttnFailsSoFar.
+# 21. AttnChecksSoFar.
+# 22. Comments.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,49,0,attn,NULL,PennController,54,_Trial_,Start,1792458812422,WHOOPEE,2,check,1;2;3;4,10;50;30;10,10;50;30;10,1,0,3,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,49,0,attn,NULL,PennController,54,_Header_,Start,1792458812422,WHOOPEE,2,check,1;2;3;4,10;50;30;10,10;50;30;10,1,0,3,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,49,0,attn,NULL,PennController,54,_Header_,End,1792458812422,WHOOPEE,2,check,1;2;3;4,10;50;30;10,10;50;30;10,1,0,3,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,49,0,attn,NULL,PennController,54,_Trial_,End,1792458822863,WHOOPEE,2,check,1;2;3;4,10;50;30;10,10;50;30;10,1,0,3,NULL
+# 14. ReferenceCountry.
+# 15. White.
+# 16. Black.
+# 17. Asian.
+# 18. Other.
+# 19. Comments.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,31,0,race,NULL,PennController,36,_Trial_,Start,1792458822866,WHOOPEE,Egypt,20,30,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,31,0,race,NULL,PennController,36,_Header_,Start,1792458822866,WHOOPEE,Egypt,20,30,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,31,0,race,NULL,PennController,36,_Header_,End,1792458822866,WHOOPEE,Egypt,20,30,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,31,0,race,NULL,PennController,36,_Trial_,End,1792458830101,WHOOPEE,Egypt,20,30,30,20,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,43,0,region,NULL,PennController,48,_Trial_,Start,1792458830106,WHOOPEE,Iraq,0,0,100,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,43,0,region,NULL,PennController,48,_Header_,Start,1792458830106,WHOOPEE,Iraq,0,0,100,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,43,0,region,NULL,PennController,48,_Header_,End,1792458830106,WHOOPEE,Iraq,0,0,100,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,43,0,region,NULL,PennController,48,_Trial_,End,1792458834433,WHOOPEE,Iraq,0,0,100,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,14,0,religion,NULL,PennController,19,_Trial_,Start,1792458834436,WHOOPEE,Sudan,40,30,20,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,14,0,religion,NULL,PennController,19,_Header_,Start,1792458834436,WHOOPEE,Sudan,40,30,20,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,14,0,religion,NULL,PennController,19,_Header_,End,1792458834437,WHOOPEE,Sudan,40,30,20,10,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,14,0,religion,NULL,PennController,19,_Trial_,End,1792458841926,WHOOPEE,Sudan,40,30,20,10,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,29,0,race,NULL,PennController,34,_Trial_,Start,1792458841929,WHOOPEE,Sudan,10,40,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,29,0,race,NULL,PennController,34,_Header_,Start,1792458841929,WHOOPEE,Sudan,10,40,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,29,0,race,NULL,PennController,34,_Header_,End,1792458841930,WHOOPEE,Sudan,10,40,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,29,0,race,NULL,PennController,34,_Trial_,End,1792458854460,WHOOPEE,Sudan,10,40,30,20,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,33,0,region,NULL,PennController,38,_Trial_,Start,1792458854465,WHOOPEE,Afghanistan,0,0,100,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,33,0,region,NULL,PennController,38,_Header_,Start,1792458854465,WHOOPEE,Afghanistan,0,0,100,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,33,0,region,NULL,PennController,38,_Header_,End,1792458854465,WHOOPEE,Afghanistan,0,0,100,0,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,33,0,region,NULL,PennController,38,_Trial_,End,1792458858375,WHOOPEE,Afghanistan,0,0,100,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,3,0,religion,NULL,PennController,8,_Trial_,Start,1792458858377,WHOOPEE,Afghanistan,30,30,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,3,0,religion,NULL,PennController,8,_Header_,Start,1792458858377,WHOOPEE,Afghanistan,30,30,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,3,0,religion,NULL,PennController,8,_Header_,End,1792458858378,WHOOPEE,Afghanistan,30,30,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,3,0,religion,NULL,PennController,8,_Trial_,End,1792458866904,WHOOPEE,Afghanistan,30,30,20,20,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,21,0,race,NULL,PennController,26,_Trial_,Start,1792458866906,WHOOPEE,Poland,40,20,10,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,21,0,race,NULL,PennController,26,_Header_,Start,1792458866906,WHOOPEE,Poland,40,20,10,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,21,0,race,NULL,PennController,26,_Header_,End,1792458866907,WHOOPEE,Poland,40,20,10,30,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,21,0,race,NULL,PennController,26,_Trial_,End,1792458888782,WHOOPEE,Poland,40,20,10,30,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,42,0,region,NULL,PennController,47,_Trial_,Start,1792458888787,WHOOPEE,Cyprus,20,30,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,42,0,region,NULL,PennController,47,_Header_,Start,1792458888787,WHOOPEE,Cyprus,20,30,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,42,0,region,NULL,PennController,47,_Header_,End,1792458888787,WHOOPEE,Cyprus,20,30,30,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,42,0,region,NULL,PennController,47,_Trial_,End,1792458910272,WHOOPEE,Cyprus,20,30,30,20,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,12,0,religion,NULL,PennController,17,_Trial_,Start,1792458910275,WHOOPEE,Cyprus,30,30,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,12,0,religion,NULL,PennController,17,_Header_,Start,1792458910275,WHOOPEE,Cyprus,30,30,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,12,0,religion,NULL,PennController,17,_Header_,End,1792458910275,WHOOPEE,Cyprus,30,30,20,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,12,0,religion,NULL,PennController,17,_Trial_,End,1792458920210,WHOOPEE,Cyprus,30,30,20,20,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,27,0,race,NULL,PennController,32,_Trial_,Start,1792458920212,WHOOPEE,Cyprus,10,30,40,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,27,0,race,NULL,PennController,32,_Header_,Start,1792458920212,WHOOPEE,Cyprus,10,30,40,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,27,0,race,NULL,PennController,32,_Header_,End,1792458920213,WHOOPEE,Cyprus,10,30,40,20,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,27,0,race,NULL,PennController,32,_Trial_,End,1792458936527,WHOOPEE,Cyprus,10,30,40,20,NULL
+# 14. Number.
+# 15. Condition.
+# 16. AttnSliders.
+# 17. AttnTargets.
+# 18. AttnGiven.
+# 19. AttnPass.
+# 20. AttnFailsSoFar.
+# 21. AttnChecksSoFar.
+# 22. Comments.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,48,0,attn,NULL,PennController,53,_Trial_,Start,1792458936533,WHOOPEE,1,check,1;2;3;4,20;20;20;40,20;20;20;40,1,0,4,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,48,0,attn,NULL,PennController,53,_Header_,Start,1792458936533,WHOOPEE,1,check,1;2;3;4,20;20;20;40,20;20;20;40,1,0,4,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,48,0,attn,NULL,PennController,53,_Header_,End,1792458936533,WHOOPEE,1,check,1;2;3;4,20;20;20;40,20;20;20;40,1,0,4,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,48,0,attn,NULL,PennController,53,_Trial_,End,1792458945646,WHOOPEE,1,check,1;2;3;4,20;20;20;40,20;20;20;40,1,0,4,NULL
+# 14. NativeLang.
+# 15. OtherLangs.
+# 16. Gender.
+# 17. Education.
+# 18. Comments.
+# 19. Comments.
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,53,0,demo,NULL,PennController,3,_Trial_,Start,1792458945651,WHOOPEE,ENGLISH,noo,undefined,undefined,undefined,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,53,0,demo,NULL,PennController,3,_Header_,Start,1792458945651,WHOOPEE,ENGLISH,noo,undefined,undefined,undefined,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,53,0,demo,NULL,PennController,3,_Header_,End,1792458945651,WHOOPEE,ENGLISH,noo,undefined,undefined,undefined,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,53,0,demo,NULL,TextInput,NativeLang,First,,1792458948263,WHOOPEE,ENGLISH,noo,undefined,undefined,undefined,CapsLock
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,53,0,demo,NULL,TextInput,Gender,First,,1792458954594,WHOOPEE,ENGLISH,noo,undefined,undefined,undefined,f
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,53,0,demo,NULL,TextInput,Education,First,,1792458979636,WHOOPEE,ENGLISH,noo,undefined,undefined,undefined,c
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,53,0,demo,NULL,TextInput,NativeLang,Final,ENGLISH,1792458994449,WHOOPEE,ENGLISH,noo,undefined,undefined,undefined,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,53,0,demo,NULL,TextInput,Gender,Final,female,1792458994449,WHOOPEE,ENGLISH,noo,undefined,undefined,undefined,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,53,0,demo,NULL,TextInput,Education,Final,college,1792458994450,WHOOPEE,ENGLISH,noo,undefined,undefined,undefined,NULL
+1792458994,0c14088b8cf15c1272d3c826ba3deade,PennController,53,0,demo,NULL,PennController,3,_Trial_,End,1792458994450,WHOOPEE,ENGLISH,noo,undefined,undefined,undefined,NULL
+#
+# Results on Tue, 20 Oct 2026 01:22:47 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. ID.
+# 15. Comments.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,52,0,consent,NULL,PennController,2,_Header_,Start,1792458250994,Rdw112,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,52,0,consent,NULL,PennController,2,_Trial_,Start,1792458250994,Rdw112,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,52,0,consent,NULL,PennController,2,_Header_,End,1792458250995,Rdw112,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,52,0,consent,NULL,TextInput,ID,First,,1792458266078,Rdw112,Rdw112,R
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,52,0,consent,NULL,PennController,2,_Trial_,End,1792458270179,Rdw112,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,52,0,consent,NULL,TextInput,ID,Final,Rdw112,1792458270179,Rdw112,Rdw112,NULL
+# 14. Comments.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,54,0,instructions1,NULL,PennController,4,_Header_,End,1792458270187,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,54,0,instructions1,NULL,PennController,4,_Header_,Start,1792458270187,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,54,0,instructions1,NULL,PennController,4,_Trial_,Start,1792458270187,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,54,0,instructions1,NULL,PennController,4,_Trial_,End,1792458287615,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,55,0,instructions2,NULL,PennController,5,_Trial_,Start,1792458287622,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,55,0,instructions2,NULL,PennController,5,_Header_,End,1792458287623,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,55,0,instructions2,NULL,PennController,5,_Header_,Start,1792458287623,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,55,0,instructions2,NULL,PennController,5,_Trial_,End,1792458293404,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,56,0,practice_intro,NULL,PennController,6,_Header_,Start,1792458293410,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,56,0,practice_intro,NULL,PennController,6,_Trial_,Start,1792458293410,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,56,0,practice_intro,NULL,PennController,6,_Header_,End,1792458293411,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,56,0,practice_intro,NULL,PennController,6,_Trial_,End,1792458299358,Rdw112,NULL
+# 14. Number.
+# 15. Image.
+# 16. Colors.
+# 17. Correct.
+# 18. NColors.
+# 19. WrongAttempts.
+# 20. FinalAnswer.
+# 21. Comments.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,68,0,training,NULL,PennController,67,_Header_,End,1792458299368,Rdw112,1,marble.5blue-5pink.jpeg,Blue;Pink,50;50,2,0,50;50,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,68,0,training,NULL,PennController,67,_Header_,Start,1792458299368,Rdw112,1,marble.5blue-5pink.jpeg,Blue;Pink,50;50,2,0,50;50,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,68,0,training,NULL,PennController,67,_Trial_,Start,1792458299368,Rdw112,1,marble.5blue-5pink.jpeg,Blue;Pink,50;50,2,0,50;50,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,68,0,training,NULL,PennController,67,_Trial_,End,1792458318916,Rdw112,1,marble.5blue-5pink.jpeg,Blue;Pink,50;50,2,0,50;50,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,69,0,training,NULL,PennController,68,_Header_,End,1792458318921,Rdw112,2,marble.5blue-1green-4pink.jpeg,Blue;Green;Pink,50;10;40,3,0,50;10;40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,69,0,training,NULL,PennController,68,_Header_,Start,1792458318921,Rdw112,2,marble.5blue-1green-4pink.jpeg,Blue;Green;Pink,50;10;40,3,0,50;10;40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,69,0,training,NULL,PennController,68,_Trial_,Start,1792458318921,Rdw112,2,marble.5blue-1green-4pink.jpeg,Blue;Green;Pink,50;10;40,3,0,50;10;40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,69,0,training,NULL,PennController,68,_Trial_,End,1792458338412,Rdw112,2,marble.5blue-1green-4pink.jpeg,Blue;Green;Pink,50;10;40,3,0,50;10;40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,70,0,training,NULL,PennController,69,_Header_,End,1792458338418,Rdw112,3,marble.3blue-3green-4pink.jpeg,Blue;Green;Pink,30;30;40,3,0,30;30;40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,70,0,training,NULL,PennController,69,_Header_,Start,1792458338418,Rdw112,3,marble.3blue-3green-4pink.jpeg,Blue;Green;Pink,30;30;40,3,0,30;30;40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,70,0,training,NULL,PennController,69,_Trial_,Start,1792458338418,Rdw112,3,marble.3blue-3green-4pink.jpeg,Blue;Green;Pink,30;30;40,3,0,30;30;40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,70,0,training,NULL,PennController,69,_Trial_,End,1792458363103,Rdw112,3,marble.3blue-3green-4pink.jpeg,Blue;Green;Pink,30;30;40,3,0,30;30;40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,71,0,training,NULL,PennController,70,_Header_,End,1792458363108,Rdw112,4,marble.2blue-6green-2pink.jpeg,Blue;Green;Pink,20;60;20,3,0,20;60;20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,71,0,training,NULL,PennController,70,_Header_,Start,1792458363108,Rdw112,4,marble.2blue-6green-2pink.jpeg,Blue;Green;Pink,20;60;20,3,0,20;60;20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,71,0,training,NULL,PennController,70,_Trial_,Start,1792458363108,Rdw112,4,marble.2blue-6green-2pink.jpeg,Blue;Green;Pink,20;60;20,3,0,20;60;20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,71,0,training,NULL,PennController,70,_Trial_,End,1792458385985,Rdw112,4,marble.2blue-6green-2pink.jpeg,Blue;Green;Pink,20;60;20,3,0,20;60;20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,72,0,training,NULL,PennController,71,_Header_,End,1792458385990,Rdw112,5,marble.3blue-3green-1pink-3yellow.jpeg,Blue;Green;Pink;Yellow,30;30;10;30,4,0,30;30;10;30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,72,0,training,NULL,PennController,71,_Header_,Start,1792458385990,Rdw112,5,marble.3blue-3green-1pink-3yellow.jpeg,Blue;Green;Pink;Yellow,30;30;10;30,4,0,30;30;10;30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,72,0,training,NULL,PennController,71,_Trial_,Start,1792458385990,Rdw112,5,marble.3blue-3green-1pink-3yellow.jpeg,Blue;Green;Pink;Yellow,30;30;10;30,4,0,30;30;10;30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,72,0,training,NULL,PennController,71,_Trial_,End,1792458405506,Rdw112,5,marble.3blue-3green-1pink-3yellow.jpeg,Blue;Green;Pink;Yellow,30;30;10;30,4,0,30;30;10;30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,73,0,training,NULL,PennController,72,_Header_,Start,1792458405510,Rdw112,6,marble.4blue-2green-2pink-2yellow.jpeg,Blue;Green;Pink;Yellow,40;20;20;20,4,0,40;20;20;20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,73,0,training,NULL,PennController,72,_Trial_,Start,1792458405510,Rdw112,6,marble.4blue-2green-2pink-2yellow.jpeg,Blue;Green;Pink;Yellow,40;20;20;20,4,0,40;20;20;20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,73,0,training,NULL,PennController,72,_Header_,End,1792458405511,Rdw112,6,marble.4blue-2green-2pink-2yellow.jpeg,Blue;Green;Pink;Yellow,40;20;20;20,4,0,40;20;20;20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,73,0,training,NULL,PennController,72,_Trial_,End,1792458426712,Rdw112,6,marble.4blue-2green-2pink-2yellow.jpeg,Blue;Green;Pink;Yellow,40;20;20;20,4,0,40;20;20;20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,74,0,training,NULL,PennController,73,_Header_,End,1792458426717,Rdw112,7,marble.1blue-1green-5pink-3yellow.jpeg,Blue;Green;Pink;Yellow,10;10;50;30,4,0,10;10;50;30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,74,0,training,NULL,PennController,73,_Header_,Start,1792458426717,Rdw112,7,marble.1blue-1green-5pink-3yellow.jpeg,Blue;Green;Pink;Yellow,10;10;50;30,4,0,10;10;50;30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,74,0,training,NULL,PennController,73,_Trial_,Start,1792458426717,Rdw112,7,marble.1blue-1green-5pink-3yellow.jpeg,Blue;Green;Pink;Yellow,10;10;50;30,4,0,10;10;50;30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,74,0,training,NULL,PennController,73,_Trial_,End,1792458455559,Rdw112,7,marble.1blue-1green-5pink-3yellow.jpeg,Blue;Green;Pink;Yellow,10;10;50;30,4,0,10;10;50;30,NULL
+# 14. Comments.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,55,0,instructions2,NULL,PennController,5,_Header_,End,1792458455564,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,55,0,instructions2,NULL,PennController,5,_Header_,Start,1792458455564,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,55,0,instructions2,NULL,PennController,5,_Trial_,Start,1792458455564,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,55,0,instructions2,NULL,PennController,5,_Trial_,End,1792458470408,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,57,0,end_instructions,NULL,PennController,7,_Header_,End,1792458470413,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,57,0,end_instructions,NULL,PennController,7,_Header_,Start,1792458470413,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,57,0,end_instructions,NULL,PennController,7,_Trial_,Start,1792458470413,Rdw112,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,57,0,end_instructions,NULL,PennController,7,_Trial_,End,1792458498047,Rdw112,NULL
+# 14. ReferenceCountry.
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+# 19. Comments.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,38,0,region,NULL,PennController,43,_Header_,End,1792458498052,Rdw112,Germany,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,38,0,region,NULL,PennController,43,_Header_,Start,1792458498052,Rdw112,Germany,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,38,0,region,NULL,PennController,43,_Trial_,Start,1792458498052,Rdw112,Germany,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,38,0,region,NULL,PennController,43,_Trial_,End,1792458544186,Rdw112,Germany,0,0,100,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,7,0,religion,NULL,PennController,12,_Header_,End,1792458544194,Rdw112,Turkey,0,100,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,7,0,religion,NULL,PennController,12,_Header_,Start,1792458544194,Rdw112,Turkey,0,100,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,7,0,religion,NULL,PennController,12,_Trial_,Start,1792458544194,Rdw112,Turkey,0,100,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,7,0,religion,NULL,PennController,12,_Trial_,End,1792458562984,Rdw112,Turkey,0,100,0,0,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,20,0,race,NULL,PennController,25,_Header_,End,1792458562988,Rdw112,Nigeria,20,80,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,20,0,race,NULL,PennController,25,_Header_,Start,1792458562988,Rdw112,Nigeria,20,80,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,20,0,race,NULL,PennController,25,_Trial_,Start,1792458562988,Rdw112,Nigeria,20,80,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,20,0,race,NULL,PennController,25,_Trial_,End,1792458574188,Rdw112,Nigeria,20,80,0,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,47,0,region,NULL,PennController,52,_Header_,End,1792458574193,Rdw112,Morocco,100,0,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,47,0,region,NULL,PennController,52,_Header_,Start,1792458574193,Rdw112,Morocco,100,0,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,47,0,region,NULL,PennController,52,_Trial_,Start,1792458574193,Rdw112,Morocco,100,0,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,47,0,region,NULL,PennController,52,_Trial_,End,1792458581303,Rdw112,Morocco,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,11,0,religion,NULL,PennController,16,_Header_,Start,1792458581307,Rdw112,United Kingdom,20,0,70,10,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,11,0,religion,NULL,PennController,16,_Trial_,Start,1792458581307,Rdw112,United Kingdom,20,0,70,10,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,11,0,religion,NULL,PennController,16,_Header_,End,1792458581308,Rdw112,United Kingdom,20,0,70,10,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,11,0,religion,NULL,PennController,16,_Trial_,End,1792458601419,Rdw112,United Kingdom,20,0,70,10,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,19,0,race,NULL,PennController,24,_Header_,End,1792458601423,Rdw112,Greece,50,50,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,19,0,race,NULL,PennController,24,_Header_,Start,1792458601423,Rdw112,Greece,50,50,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,19,0,race,NULL,PennController,24,_Trial_,Start,1792458601423,Rdw112,Greece,50,50,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,19,0,race,NULL,PennController,24,_Trial_,End,1792458629464,Rdw112,Greece,50,50,0,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,34,0,region,NULL,PennController,39,_Header_,End,1792458629468,Rdw112,Greece,0,0,50,50,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,34,0,region,NULL,PennController,39,_Header_,Start,1792458629468,Rdw112,Greece,0,0,50,50,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,34,0,region,NULL,PennController,39,_Trial_,Start,1792458629468,Rdw112,Greece,0,0,50,50,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,34,0,region,NULL,PennController,39,_Trial_,End,1792458637649,Rdw112,Greece,0,0,50,50,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,14,0,religion,NULL,PennController,19,_Header_,End,1792458637653,Rdw112,Sudan,0,70,0,30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,14,0,religion,NULL,PennController,19,_Header_,Start,1792458637653,Rdw112,Sudan,0,70,0,30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,14,0,religion,NULL,PennController,19,_Trial_,Start,1792458637653,Rdw112,Sudan,0,70,0,30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,14,0,religion,NULL,PennController,19,_Trial_,End,1792458658455,Rdw112,Sudan,0,70,0,30,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,26,0,race,NULL,PennController,31,_Header_,Start,1792458658459,Rdw112,United Kingdom,60,30,0,10,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,26,0,race,NULL,PennController,31,_Trial_,Start,1792458658459,Rdw112,United Kingdom,60,30,0,10,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,26,0,race,NULL,PennController,31,_Header_,End,1792458658460,Rdw112,United Kingdom,60,30,0,10,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,26,0,race,NULL,PennController,31,_Trial_,End,1792458672145,Rdw112,United Kingdom,60,30,0,10,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,43,0,region,NULL,PennController,48,_Header_,End,1792458672149,Rdw112,Iraq,40,0,60,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,43,0,region,NULL,PennController,48,_Header_,Start,1792458672149,Rdw112,Iraq,40,0,60,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,43,0,region,NULL,PennController,48,_Trial_,Start,1792458672149,Rdw112,Iraq,40,0,60,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,43,0,region,NULL,PennController,48,_Trial_,End,1792458685964,Rdw112,Iraq,40,0,60,0,NULL
+# 14. Number.
+# 15. Condition.
+# 16. AttnSliders.
+# 17. AttnTargets.
+# 18. AttnGiven.
+# 19. AttnPass.
+# 20. AttnFailsSoFar.
+# 21. AttnChecksSoFar.
+# 22. Comments.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,49,0,attn,NULL,PennController,54,_Header_,Start,1792458685968,Rdw112,2,check,1;2;3;4,10;50;30;10,10;50;30;10,1,0,1,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,49,0,attn,NULL,PennController,54,_Trial_,Start,1792458685968,Rdw112,2,check,1;2;3;4,10;50;30;10,10;50;30;10,1,0,1,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,49,0,attn,NULL,PennController,54,_Header_,End,1792458685969,Rdw112,2,check,1;2;3;4,10;50;30;10,10;50;30;10,1,0,1,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,49,0,attn,NULL,PennController,54,_Trial_,End,1792458699896,Rdw112,2,check,1;2;3;4,10;50;30;10,10;50;30;10,1,0,1,NULL
+# 14. ReferenceCountry.
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+# 19. Comments.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,6,0,religion,NULL,PennController,11,_Header_,End,1792458699900,Rdw112,Poland,20,0,50,30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,6,0,religion,NULL,PennController,11,_Header_,Start,1792458699900,Rdw112,Poland,20,0,50,30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,6,0,religion,NULL,PennController,11,_Trial_,Start,1792458699900,Rdw112,Poland,20,0,50,30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,6,0,religion,NULL,PennController,11,_Trial_,End,1792458717078,Rdw112,Poland,20,0,50,30,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,28,0,race,NULL,PennController,33,_Header_,Start,1792458717082,Rdw112,Iraq,0,0,20,80,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,28,0,race,NULL,PennController,33,_Trial_,Start,1792458717082,Rdw112,Iraq,0,0,20,80,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,28,0,race,NULL,PennController,33,_Header_,End,1792458717083,Rdw112,Iraq,0,0,20,80,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,28,0,race,NULL,PennController,33,_Trial_,End,1792458734672,Rdw112,Iraq,0,0,20,80,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,41,0,region,NULL,PennController,46,_Header_,End,1792458734676,Rdw112,United Kingdom,0,0,0,100,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,41,0,region,NULL,PennController,46,_Header_,Start,1792458734676,Rdw112,United Kingdom,0,0,0,100,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,41,0,region,NULL,PennController,46,_Trial_,Start,1792458734676,Rdw112,United Kingdom,0,0,0,100,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,41,0,region,NULL,PennController,46,_Trial_,End,1792458745395,Rdw112,United Kingdom,0,0,0,100,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,16,0,religion,NULL,PennController,21,_Header_,Start,1792458745399,Rdw112,Egypt,0,30,0,70,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,16,0,religion,NULL,PennController,21,_Trial_,Start,1792458745399,Rdw112,Egypt,0,30,0,70,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,16,0,religion,NULL,PennController,21,_Header_,End,1792458745400,Rdw112,Egypt,0,30,0,70,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,16,0,religion,NULL,PennController,21,_Trial_,End,1792458752845,Rdw112,Egypt,0,30,0,70,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,24,0,race,NULL,PennController,29,_Header_,End,1792458752849,Rdw112,Pakistan,0,20,50,30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,24,0,race,NULL,PennController,29,_Header_,Start,1792458752849,Rdw112,Pakistan,0,20,50,30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,24,0,race,NULL,PennController,29,_Trial_,Start,1792458752849,Rdw112,Pakistan,0,20,50,30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,24,0,race,NULL,PennController,29,_Trial_,End,1792458767853,Rdw112,Pakistan,0,20,50,30,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,33,0,region,NULL,PennController,38,_Header_,Start,1792458767856,Rdw112,Afghanistan,60,40,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,33,0,region,NULL,PennController,38,_Trial_,Start,1792458767856,Rdw112,Afghanistan,60,40,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,33,0,region,NULL,PennController,38,_Header_,End,1792458767857,Rdw112,Afghanistan,60,40,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,33,0,region,NULL,PennController,38,_Trial_,End,1792458779020,Rdw112,Afghanistan,60,40,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,4,0,religion,NULL,PennController,9,_Header_,Start,1792458779024,Rdw112,Greece,0,0,0,100,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,4,0,religion,NULL,PennController,9,_Trial_,Start,1792458779024,Rdw112,Greece,0,0,0,100,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,4,0,religion,NULL,PennController,9,_Header_,End,1792458779025,Rdw112,Greece,0,0,0,100,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,4,0,religion,NULL,PennController,9,_Trial_,End,1792458793906,Rdw112,Greece,0,0,0,100,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,31,0,race,NULL,PennController,36,_Header_,End,1792458793910,Rdw112,Egypt,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,31,0,race,NULL,PennController,36,_Header_,Start,1792458793910,Rdw112,Egypt,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,31,0,race,NULL,PennController,36,_Trial_,Start,1792458793910,Rdw112,Egypt,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,31,0,race,NULL,PennController,36,_Trial_,End,1792458812521,Rdw112,Egypt,0,0,100,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,44,0,region,NULL,PennController,49,_Header_,End,1792458812525,Rdw112,Sudan,0,20,80,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,44,0,region,NULL,PennController,49,_Header_,Start,1792458812525,Rdw112,Sudan,0,20,80,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,44,0,region,NULL,PennController,49,_Trial_,Start,1792458812525,Rdw112,Sudan,0,20,80,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,44,0,region,NULL,PennController,49,_Trial_,End,1792458820126,Rdw112,Sudan,0,20,80,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,17,0,religion,NULL,PennController,22,_Header_,End,1792458820130,Rdw112,Morocco,30,0,0,70,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,17,0,religion,NULL,PennController,22,_Header_,Start,1792458820130,Rdw112,Morocco,30,0,0,70,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,17,0,religion,NULL,PennController,22,_Trial_,Start,1792458820130,Rdw112,Morocco,30,0,0,70,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,17,0,religion,NULL,PennController,22,_Trial_,End,1792458843775,Rdw112,Morocco,30,0,0,70,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,29,0,race,NULL,PennController,34,_Header_,Start,1792458843778,Rdw112,Sudan,20,10,40,30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,29,0,race,NULL,PennController,34,_Trial_,Start,1792458843778,Rdw112,Sudan,20,10,40,30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,29,0,race,NULL,PennController,34,_Header_,End,1792458843779,Rdw112,Sudan,20,10,40,30,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,29,0,race,NULL,PennController,34,_Trial_,End,1792458859933,Rdw112,Sudan,20,10,40,30,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,45,0,region,NULL,PennController,50,_Header_,End,1792458859937,Rdw112,Armenia,20,20,40,20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,45,0,region,NULL,PennController,50,_Header_,Start,1792458859937,Rdw112,Armenia,20,20,40,20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,45,0,region,NULL,PennController,50,_Trial_,Start,1792458859937,Rdw112,Armenia,20,20,40,20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,45,0,region,NULL,PennController,50,_Trial_,End,1792458895408,Rdw112,Armenia,20,20,40,20,NULL
+# 14. Number.
+# 15. Condition.
+# 16. AttnSliders.
+# 17. AttnTargets.
+# 18. AttnGiven.
+# 19. AttnPass.
+# 20. AttnFailsSoFar.
+# 21. AttnChecksSoFar.
+# 22. Comments.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,50,0,attn,NULL,PennController,55,_Header_,End,1792458895412,Rdw112,3,check,1;2;3;4,70;10;10;10,70;10;10;10,1,0,2,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,50,0,attn,NULL,PennController,55,_Header_,Start,1792458895412,Rdw112,3,check,1;2;3;4,70;10;10;10,70;10;10;10,1,0,2,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,50,0,attn,NULL,PennController,55,_Trial_,Start,1792458895412,Rdw112,3,check,1;2;3;4,70;10;10;10,70;10;10;10,1,0,2,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,50,0,attn,NULL,PennController,55,_Trial_,End,1792458906877,Rdw112,3,check,1;2;3;4,70;10;10;10,70;10;10;10,1,0,2,NULL
+# 14. ReferenceCountry.
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+# 19. Comments.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,5,0,religion,NULL,PennController,10,_Header_,End,1792458906881,Rdw112,Nigeria,40,0,40,20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,5,0,religion,NULL,PennController,10,_Header_,Start,1792458906881,Rdw112,Nigeria,40,0,40,20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,5,0,religion,NULL,PennController,10,_Trial_,Start,1792458906881,Rdw112,Nigeria,40,0,40,20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,5,0,religion,NULL,PennController,10,_Trial_,End,1792458926247,Rdw112,Nigeria,40,0,40,20,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,21,0,race,NULL,PennController,26,_Header_,Start,1792458926250,Rdw112,Poland,80,20,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,21,0,race,NULL,PennController,26,_Trial_,Start,1792458926250,Rdw112,Poland,80,20,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,21,0,race,NULL,PennController,26,_Header_,End,1792458926251,Rdw112,Poland,80,20,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,21,0,race,NULL,PennController,26,_Trial_,End,1792458935760,Rdw112,Poland,80,20,0,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,37,0,region,NULL,PennController,42,_Header_,End,1792458935764,Rdw112,Turkey,100,0,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,37,0,region,NULL,PennController,42,_Header_,Start,1792458935764,Rdw112,Turkey,100,0,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,37,0,region,NULL,PennController,42,_Trial_,Start,1792458935764,Rdw112,Turkey,100,0,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,37,0,region,NULL,PennController,42,_Trial_,End,1792458942759,Rdw112,Turkey,100,0,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,15,0,religion,NULL,PennController,20,_Header_,End,1792458942762,Rdw112,Armenia,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,15,0,religion,NULL,PennController,20,_Header_,Start,1792458942762,Rdw112,Armenia,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,15,0,religion,NULL,PennController,20,_Trial_,Start,1792458942762,Rdw112,Armenia,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,15,0,religion,NULL,PennController,20,_Trial_,End,1792458971174,Rdw112,Armenia,0,0,100,0,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,23,0,race,NULL,PennController,28,_Header_,End,1792458971177,Rdw112,Germany,90,10,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,23,0,race,NULL,PennController,28,_Header_,Start,1792458971177,Rdw112,Germany,90,10,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,23,0,race,NULL,PennController,28,_Trial_,Start,1792458971177,Rdw112,Germany,90,10,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,23,0,race,NULL,PennController,28,_Trial_,End,1792458979924,Rdw112,Germany,90,10,0,0,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,40,0,region,NULL,PennController,45,_Header_,End,1792458979927,Rdw112,Spain,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,40,0,region,NULL,PennController,45,_Header_,Start,1792458979927,Rdw112,Spain,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,40,0,region,NULL,PennController,45,_Trial_,Start,1792458979927,Rdw112,Spain,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,40,0,region,NULL,PennController,45,_Trial_,End,1792458984159,Rdw112,Spain,0,0,100,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,8,0,religion,NULL,PennController,13,_Header_,End,1792458984162,Rdw112,Germany,20,0,40,40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,8,0,religion,NULL,PennController,13,_Header_,Start,1792458984162,Rdw112,Germany,20,0,40,40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,8,0,religion,NULL,PennController,13,_Trial_,Start,1792458984162,Rdw112,Germany,20,0,40,40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,8,0,religion,NULL,PennController,13,_Trial_,End,1792458992851,Rdw112,Germany,20,0,40,40,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,32,0,race,NULL,PennController,37,_Header_,End,1792458992855,Rdw112,Morocco,30,0,10,60,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,32,0,race,NULL,PennController,37,_Header_,Start,1792458992855,Rdw112,Morocco,30,0,10,60,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,32,0,race,NULL,PennController,37,_Trial_,Start,1792458992855,Rdw112,Morocco,30,0,10,60,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,32,0,race,NULL,PennController,37,_Trial_,End,1792459000486,Rdw112,Morocco,30,0,10,60,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,46,0,region,NULL,PennController,51,_Header_,End,1792459000489,Rdw112,Egypt,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,46,0,region,NULL,PennController,51,_Header_,Start,1792459000489,Rdw112,Egypt,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,46,0,region,NULL,PennController,51,_Trial_,Start,1792459000489,Rdw112,Egypt,0,0,100,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,46,0,region,NULL,PennController,51,_Trial_,End,1792459026138,Rdw112,Egypt,0,0,100,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,9,0,religion,NULL,PennController,14,_Header_,End,1792459026141,Rdw112,Pakistan,0,10,90,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,9,0,religion,NULL,PennController,14,_Header_,Start,1792459026141,Rdw112,Pakistan,0,10,90,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,9,0,religion,NULL,PennController,14,_Trial_,Start,1792459026141,Rdw112,Pakistan,0,10,90,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,9,0,religion,NULL,PennController,14,_Trial_,End,1792459037358,Rdw112,Pakistan,0,10,90,0,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,25,0,race,NULL,PennController,30,_Header_,End,1792459037362,Rdw112,Spain,10,10,20,60,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,25,0,race,NULL,PennController,30,_Header_,Start,1792459037362,Rdw112,Spain,10,10,20,60,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,25,0,race,NULL,PennController,30,_Trial_,Start,1792459037362,Rdw112,Spain,10,10,20,60,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,25,0,race,NULL,PennController,30,_Trial_,End,1792459057382,Rdw112,Spain,10,10,20,60,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,42,0,region,NULL,PennController,47,_Header_,End,1792459057385,Rdw112,Cyprus,100,0,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,42,0,region,NULL,PennController,47,_Header_,Start,1792459057385,Rdw112,Cyprus,100,0,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,42,0,region,NULL,PennController,47,_Trial_,Start,1792459057385,Rdw112,Cyprus,100,0,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,42,0,region,NULL,PennController,47,_Trial_,End,1792459069399,Rdw112,Cyprus,100,0,0,0,NULL
+# 14. Number.
+# 15. Condition.
+# 16. AttnSliders.
+# 17. AttnTargets.
+# 18. AttnGiven.
+# 19. AttnPass.
+# 20. AttnFailsSoFar.
+# 21. AttnChecksSoFar.
+# 22. Comments.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,48,0,attn,NULL,PennController,53,_Header_,End,1792459069402,Rdw112,1,check,1;2;3;4,20;20;20;40,20;20;20;40,1,0,3,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,48,0,attn,NULL,PennController,53,_Header_,Start,1792459069402,Rdw112,1,check,1;2;3;4,20;20;20;40,20;20;20;40,1,0,3,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,48,0,attn,NULL,PennController,53,_Trial_,Start,1792459069402,Rdw112,1,check,1;2;3;4,20;20;20;40,20;20;20;40,1,0,3,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,48,0,attn,NULL,PennController,53,_Trial_,End,1792459087949,Rdw112,1,check,1;2;3;4,20;20;20;40,20;20;20;40,1,0,3,NULL
+# 14. ReferenceCountry.
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+# 19. Comments.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,3,0,religion,NULL,PennController,8,_Header_,End,1792459087952,Rdw112,Afghanistan,0,0,0,100,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,3,0,religion,NULL,PennController,8,_Header_,Start,1792459087952,Rdw112,Afghanistan,0,0,0,100,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,3,0,religion,NULL,PennController,8,_Trial_,Start,1792459087952,Rdw112,Afghanistan,0,0,0,100,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,3,0,religion,NULL,PennController,8,_Trial_,End,1792459101794,Rdw112,Afghanistan,0,0,0,100,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,18,0,race,NULL,PennController,23,_Header_,Start,1792459101797,Rdw112,Afghanistan,20,10,10,60,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,18,0,race,NULL,PennController,23,_Trial_,Start,1792459101797,Rdw112,Afghanistan,20,10,10,60,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,18,0,race,NULL,PennController,23,_Header_,End,1792459101798,Rdw112,Afghanistan,20,10,10,60,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,18,0,race,NULL,PennController,23,_Trial_,End,1792459135556,Rdw112,Afghanistan,20,10,10,60,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,39,0,region,NULL,PennController,44,_Header_,End,1792459135560,Rdw112,Pakistan,30,0,70,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,39,0,region,NULL,PennController,44,_Header_,Start,1792459135560,Rdw112,Pakistan,30,0,70,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,39,0,region,NULL,PennController,44,_Trial_,Start,1792459135560,Rdw112,Pakistan,30,0,70,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,39,0,region,NULL,PennController,44,_Trial_,End,1792459152680,Rdw112,Pakistan,30,0,70,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,10,0,religion,NULL,PennController,15,_Header_,End,1792459152683,Rdw112,Spain,10,0,50,40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,10,0,religion,NULL,PennController,15,_Header_,Start,1792459152683,Rdw112,Spain,10,0,50,40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,10,0,religion,NULL,PennController,15,_Trial_,Start,1792459152683,Rdw112,Spain,10,0,50,40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,10,0,religion,NULL,PennController,15,_Trial_,End,1792459219502,Rdw112,Spain,10,0,50,40,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,22,0,race,NULL,PennController,27,_Header_,Start,1792459219505,Rdw112,Turkey,20,0,0,80,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,22,0,race,NULL,PennController,27,_Trial_,Start,1792459219505,Rdw112,Turkey,20,0,0,80,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,22,0,race,NULL,PennController,27,_Header_,End,1792459219506,Rdw112,Turkey,20,0,0,80,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,22,0,race,NULL,PennController,27,_Trial_,End,1792459231128,Rdw112,Turkey,20,0,0,80,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,36,0,region,NULL,PennController,41,_Header_,End,1792459231132,Rdw112,Poland,0,0,0,100,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,36,0,region,NULL,PennController,41,_Header_,Start,1792459231132,Rdw112,Poland,0,0,0,100,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,36,0,region,NULL,PennController,41,_Trial_,Start,1792459231132,Rdw112,Poland,0,0,0,100,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,36,0,region,NULL,PennController,41,_Trial_,End,1792459246502,Rdw112,Poland,0,0,0,100,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,12,0,religion,NULL,PennController,17,_Header_,End,1792459246505,Rdw112,Cyprus,0,50,50,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,12,0,religion,NULL,PennController,17,_Header_,Start,1792459246505,Rdw112,Cyprus,0,50,50,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,12,0,religion,NULL,PennController,17,_Trial_,Start,1792459246505,Rdw112,Cyprus,0,50,50,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,12,0,religion,NULL,PennController,17,_Trial_,End,1792459255570,Rdw112,Cyprus,0,50,50,0,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,30,0,race,NULL,PennController,35,_Header_,End,1792459255573,Rdw112,Armenia,40,20,20,20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,30,0,race,NULL,PennController,35,_Header_,Start,1792459255573,Rdw112,Armenia,40,20,20,20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,30,0,race,NULL,PennController,35,_Trial_,Start,1792459255573,Rdw112,Armenia,40,20,20,20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,30,0,race,NULL,PennController,35,_Trial_,End,1792459268780,Rdw112,Armenia,40,20,20,20,NULL
+# 15. Asia.
+# 16. Africa.
+# 17. Middle East.
+# 18. Europe.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,35,0,region,NULL,PennController,40,_Header_,End,1792459268783,Rdw112,Nigeria,0,100,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,35,0,region,NULL,PennController,40,_Header_,Start,1792459268783,Rdw112,Nigeria,0,100,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,35,0,region,NULL,PennController,40,_Trial_,Start,1792459268783,Rdw112,Nigeria,0,100,0,0,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,35,0,region,NULL,PennController,40,_Trial_,End,1792459274302,Rdw112,Nigeria,0,100,0,0,NULL
+# 15. Christian.
+# 16. Muslim.
+# 17. Non-religious.
+# 18. Other.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,13,0,religion,NULL,PennController,18,_Header_,End,1792459274305,Rdw112,Iraq,0,40,20,40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,13,0,religion,NULL,PennController,18,_Header_,Start,1792459274305,Rdw112,Iraq,0,40,20,40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,13,0,religion,NULL,PennController,18,_Trial_,Start,1792459274305,Rdw112,Iraq,0,40,20,40,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,13,0,religion,NULL,PennController,18,_Trial_,End,1792459292719,Rdw112,Iraq,0,40,20,40,NULL
+# 15. White.
+# 16. Black.
+# 17. Asian.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,27,0,race,NULL,PennController,32,_Header_,End,1792459292721,Rdw112,Cyprus,10,20,50,20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,27,0,race,NULL,PennController,32,_Header_,Start,1792459292721,Rdw112,Cyprus,10,20,50,20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,27,0,race,NULL,PennController,32,_Trial_,Start,1792459292721,Rdw112,Cyprus,10,20,50,20,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,27,0,race,NULL,PennController,32,_Trial_,End,1792459303253,Rdw112,Cyprus,10,20,50,20,NULL
+# 14. Number.
+# 15. Condition.
+# 16. AttnSliders.
+# 17. AttnTargets.
+# 18. AttnGiven.
+# 19. AttnPass.
+# 20. AttnFailsSoFar.
+# 21. AttnChecksSoFar.
+# 22. Comments.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,51,0,attn,NULL,PennController,56,_Header_,End,1792459303256,Rdw112,4,check,1;2;3;4,20;40;10;30,20;40;10;30,1,0,4,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,51,0,attn,NULL,PennController,56,_Header_,Start,1792459303256,Rdw112,4,check,1;2;3;4,20;40;10;30,20;40;10;30,1,0,4,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,51,0,attn,NULL,PennController,56,_Trial_,Start,1792459303256,Rdw112,4,check,1;2;3;4,20;40;10;30,20;40;10;30,1,0,4,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,51,0,attn,NULL,PennController,56,_Trial_,End,1792459316913,Rdw112,4,check,1;2;3;4,20;40;10;30,20;40;10;30,1,0,4,NULL
+# 14. NativeLang.
+# 15. OtherLangs.
+# 16. Gender.
+# 17. Education.
+# 18. Comments.
+# 19. Comments.
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,53,0,demo,NULL,PennController,3,_Header_,End,1792459316916,Rdw112,English ,No,undefined,undefined,undefined,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,53,0,demo,NULL,PennController,3,_Header_,Start,1792459316916,Rdw112,English ,No,undefined,undefined,undefined,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,53,0,demo,NULL,PennController,3,_Trial_,Start,1792459316916,Rdw112,English ,No,undefined,undefined,undefined,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,53,0,demo,NULL,TextInput,Gender,First,,1792459325341,Rdw112,English ,No,undefined,undefined,undefined,F
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,53,0,demo,NULL,TextInput,NativeLang,First,,1792459335486,Rdw112,English ,No,undefined,undefined,undefined,E
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,53,0,demo,NULL,TextInput,Education,First,,1792459346598,Rdw112,English ,No,undefined,undefined,undefined,S
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,53,0,demo,NULL,TextInput,NativeLang,Final,English ,1792459366693,Rdw112,English ,No,undefined,undefined,undefined,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,53,0,demo,NULL,PennController,3,_Trial_,End,1792459366694,Rdw112,English ,No,undefined,undefined,undefined,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,53,0,demo,NULL,TextInput,Education,Final,College ,1792459366694,Rdw112,English ,No,undefined,undefined,undefined,NULL
+1792459367,99a7ea115a9407d3f988b82d5c79a8e7,PennController,53,0,demo,NULL,TextInput,Gender,Final,Female ,1792459366694,Rdw112,English ,No,undefined,undefined,undefined,NULL

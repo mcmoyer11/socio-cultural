@@ -1,0 +1,228 @@
+#
+# Results on Sun, 18 Oct 2026 15:26:21 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:158.0) Gecko/20100101 Firefox/158.0
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. Comments.
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,77,0,instructions1,NULL,PennController,5,_Trial_,Start,1792336239813,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,77,0,instructions1,NULL,PennController,5,_Header_,Start,1792336239813,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,77,0,instructions1,NULL,PennController,5,_Header_,End,1792336239814,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,77,0,instructions1,NULL,PennController,5,_Trial_,End,1792336240938,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,78,0,instructions2,NULL,PennController,6,_Trial_,Start,1792336240943,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,78,0,instructions2,NULL,PennController,6,_Header_,Start,1792336240943,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,78,0,instructions2,NULL,PennController,6,_Header_,End,1792336240944,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,78,0,instructions2,NULL,PennController,6,_Trial_,End,1792336241854,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,79,0,practice_intro,NULL,PennController,7,_Trial_,Start,1792336241858,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,79,0,practice_intro,NULL,PennController,7,_Header_,Start,1792336241858,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,79,0,practice_intro,NULL,PennController,7,_Header_,End,1792336241858,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,79,0,practice_intro,NULL,PennController,7,_Trial_,End,1792336242653,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,80,0,end_instructions,NULL,PennController,8,_Trial_,Start,1792336242656,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,80,0,end_instructions,NULL,PennController,8,_Header_,Start,1792336242656,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,80,0,end_instructions,NULL,PennController,8,_Header_,End,1792336242656,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,80,0,end_instructions,NULL,PennController,8,_Trial_,End,1792336243869,undefined,NULL
+# 14. QuantifierSet.
+# 15. Number.
+# 16. TrialType.
+# 17. Quantifier.
+# 18. Condition.
+# 19. Comments.
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,41,0,lowQuant_list,NULL,PennController,46,_Trial_,Start,1792336243872,undefined,Low,1,filler,Some,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,41,0,lowQuant_list,NULL,PennController,46,_Header_,Start,1792336243872,undefined,Low,1,filler,Some,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,41,0,lowQuant_list,NULL,PennController,46,_Header_,End,1792336243872,undefined,Low,1,filler,Some,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,41,0,lowQuant_list,NULL,PennController,46,_Trial_,End,1792336243872,undefined,Low,1,filler,Some,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,42,0,lowQuant_list,NULL,PennController,47,_Trial_,Start,1792336243875,undefined,Low,2,filler,A few,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,42,0,lowQuant_list,NULL,PennController,47,_Header_,Start,1792336243875,undefined,Low,2,filler,A few,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,42,0,lowQuant_list,NULL,PennController,47,_Header_,End,1792336243875,undefined,Low,2,filler,A few,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,42,0,lowQuant_list,NULL,PennController,47,_Trial_,End,1792336243876,undefined,Low,2,filler,A few,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,43,0,lowQuant_list,NULL,PennController,48,_Trial_,Start,1792336243878,undefined,Low,3,filler,A couple,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,43,0,lowQuant_list,NULL,PennController,48,_Header_,Start,1792336243878,undefined,Low,3,filler,A couple,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,43,0,lowQuant_list,NULL,PennController,48,_Header_,End,1792336243878,undefined,Low,3,filler,A couple,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,43,0,lowQuant_list,NULL,PennController,48,_Trial_,End,1792336243878,undefined,Low,3,filler,A couple,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,44,0,lowQuant_list,NULL,PennController,49,_Trial_,Start,1792336243880,undefined,Low,4,filler,Several,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,44,0,lowQuant_list,NULL,PennController,49,_Header_,Start,1792336243880,undefined,Low,4,filler,Several,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,44,0,lowQuant_list,NULL,PennController,49,_Header_,End,1792336243880,undefined,Low,4,filler,Several,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,44,0,lowQuant_list,NULL,PennController,49,_Trial_,End,1792336243880,undefined,Low,4,filler,Several,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,45,0,lowQuant_list,NULL,PennController,50,_Trial_,Start,1792336243882,undefined,Low,5,filler,A handful,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,45,0,lowQuant_list,NULL,PennController,50,_Header_,Start,1792336243882,undefined,Low,5,filler,A handful,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,45,0,lowQuant_list,NULL,PennController,50,_Header_,End,1792336243883,undefined,Low,5,filler,A handful,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,45,0,lowQuant_list,NULL,PennController,50,_Trial_,End,1792336243883,undefined,Low,5,filler,A handful,LowQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,46,0,highQuant_list,NULL,PennController,51,_Trial_,Start,1792336243885,undefined,High,1,filler,A lot,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,46,0,highQuant_list,NULL,PennController,51,_Header_,Start,1792336243885,undefined,High,1,filler,A lot,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,46,0,highQuant_list,NULL,PennController,51,_Header_,End,1792336243885,undefined,High,1,filler,A lot,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,46,0,highQuant_list,NULL,PennController,51,_Trial_,End,1792336243885,undefined,High,1,filler,A lot,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,47,0,highQuant_list,NULL,PennController,52,_Trial_,Start,1792336243887,undefined,High,2,filler,Tons,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,47,0,highQuant_list,NULL,PennController,52,_Header_,Start,1792336243887,undefined,High,2,filler,Tons,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,47,0,highQuant_list,NULL,PennController,52,_Header_,End,1792336243888,undefined,High,2,filler,Tons,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,47,0,highQuant_list,NULL,PennController,52,_Trial_,End,1792336243888,undefined,High,2,filler,Tons,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,48,0,highQuant_list,NULL,PennController,53,_Trial_,Start,1792336243889,undefined,High,3,filler,Many,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,48,0,highQuant_list,NULL,PennController,53,_Header_,Start,1792336243889,undefined,High,3,filler,Many,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,48,0,highQuant_list,NULL,PennController,53,_Header_,End,1792336243890,undefined,High,3,filler,Many,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,48,0,highQuant_list,NULL,PennController,53,_Trial_,End,1792336243890,undefined,High,3,filler,Many,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,49,0,highQuant_list,NULL,PennController,54,_Trial_,Start,1792336243891,undefined,High,4,filler,Loads,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,49,0,highQuant_list,NULL,PennController,54,_Header_,Start,1792336243891,undefined,High,4,filler,Loads,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,49,0,highQuant_list,NULL,PennController,54,_Header_,End,1792336243892,undefined,High,4,filler,Loads,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,49,0,highQuant_list,NULL,PennController,54,_Trial_,End,1792336243892,undefined,High,4,filler,Loads,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,50,0,highQuant_list,NULL,PennController,55,_Trial_,Start,1792336243894,undefined,High,5,filler,A bunch,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,50,0,highQuant_list,NULL,PennController,55,_Header_,Start,1792336243894,undefined,High,5,filler,A bunch,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,50,0,highQuant_list,NULL,PennController,55,_Header_,End,1792336243894,undefined,High,5,filler,A bunch,HighQuantifier,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,50,0,highQuant_list,NULL,PennController,55,_Trial_,End,1792336243894,undefined,High,5,filler,A bunch,HighQuantifier,NULL
+# 14. Number.
+# 15. QuestionNumber.
+# 16. NumberType.
+# 17. QuantifierSet.
+# 18. InitialOrder.
+# 19. Rank1.
+# 20. Rank2.
+# 21. Rank3.
+# 22. Rank4.
+# 23. Rank5.
+# 24. Comments.
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,51,0,lowq_test,NULL,PennController,56,_Trial_,Start,1792336243896,undefined,1,2,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,51,0,lowq_test,NULL,PennController,56,_Header_,Start,1792336243896,undefined,1,2,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,51,0,lowq_test,NULL,PennController,56,_Header_,End,1792336243896,undefined,1,2,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,51,0,lowq_test,NULL,PennController,56,_Trial_,End,1792336268059,undefined,1,2,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,71,0,highq_test,NULL,PennController,76,_Trial_,Start,1792336268065,undefined,8,9,intermediate,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,71,0,highq_test,NULL,PennController,76,_Header_,Start,1792336268065,undefined,8,9,intermediate,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,71,0,highq_test,NULL,PennController,76,_Header_,End,1792336268065,undefined,8,9,intermediate,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,71,0,highq_test,NULL,PennController,76,_Trial_,End,1792336278107,undefined,8,9,intermediate,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,58,0,lowq_test,NULL,PennController,63,_Trial_,Start,1792336278111,undefined,8,9,intermediate,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,58,0,lowq_test,NULL,PennController,63,_Header_,Start,1792336278111,undefined,8,9,intermediate,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,58,0,lowq_test,NULL,PennController,63,_Header_,End,1792336278111,undefined,8,9,intermediate,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,58,0,lowq_test,NULL,PennController,63,_Trial_,End,1792336287655,undefined,8,9,intermediate,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,70,0,highq_test,NULL,PennController,75,_Trial_,Start,1792336287659,undefined,7,8,intermediate,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,70,0,highq_test,NULL,PennController,75,_Header_,Start,1792336287659,undefined,7,8,intermediate,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,70,0,highq_test,NULL,PennController,75,_Header_,End,1792336287659,undefined,7,8,intermediate,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,70,0,highq_test,NULL,PennController,75,_Trial_,End,1792336299057,undefined,7,8,intermediate,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,53,0,lowq_test,NULL,PennController,58,_Trial_,Start,1792336299060,undefined,3,4,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,53,0,lowq_test,NULL,PennController,58,_Header_,Start,1792336299060,undefined,3,4,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,53,0,lowq_test,NULL,PennController,58,_Header_,End,1792336299061,undefined,3,4,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,53,0,lowq_test,NULL,PennController,58,_Trial_,End,1792336312493,undefined,3,4,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,75,0,highq_test,NULL,PennController,80,_Trial_,Start,1792336312499,undefined,12,13,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,75,0,highq_test,NULL,PennController,80,_Header_,Start,1792336312499,undefined,12,13,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,75,0,highq_test,NULL,PennController,80,_Header_,End,1792336312499,undefined,12,13,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,75,0,highq_test,NULL,PennController,80,_Trial_,End,1792336323490,undefined,12,13,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,55,0,lowq_test,NULL,PennController,60,_Trial_,Start,1792336323494,undefined,5,6,low,Low,Some|A couple|A few|Several|A handful,A few,Some,A couple,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,55,0,lowq_test,NULL,PennController,60,_Header_,Start,1792336323494,undefined,5,6,low,Low,Some|A couple|A few|Several|A handful,A few,Some,A couple,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,55,0,lowq_test,NULL,PennController,60,_Header_,End,1792336323494,undefined,5,6,low,Low,Some|A couple|A few|Several|A handful,A few,Some,A couple,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,55,0,lowq_test,NULL,PennController,60,_Trial_,End,1792336333859,undefined,5,6,low,Low,Some|A couple|A few|Several|A handful,A few,Some,A couple,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,73,0,highq_test,NULL,PennController,78,_Trial_,Start,1792336333862,undefined,10,11,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,73,0,highq_test,NULL,PennController,78,_Header_,Start,1792336333862,undefined,10,11,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,73,0,highq_test,NULL,PennController,78,_Header_,End,1792336333862,undefined,10,11,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,73,0,highq_test,NULL,PennController,78,_Trial_,End,1792336372758,undefined,10,11,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,56,0,lowq_test,NULL,PennController,61,_Trial_,Start,1792336372762,undefined,6,7,intermediate,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,56,0,lowq_test,NULL,PennController,61,_Header_,Start,1792336372762,undefined,6,7,intermediate,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,56,0,lowq_test,NULL,PennController,61,_Header_,End,1792336372762,undefined,6,7,intermediate,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,56,0,lowq_test,NULL,PennController,61,_Trial_,End,1792336384308,undefined,6,7,intermediate,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,69,0,highq_test,NULL,PennController,74,_Trial_,Start,1792336384311,undefined,6,7,intermediate,High,A lot|Loads|Tons|Many|A bunch,Loads,A bunch,Many,Tons,A lot,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,69,0,highq_test,NULL,PennController,74,_Header_,Start,1792336384311,undefined,6,7,intermediate,High,A lot|Loads|Tons|Many|A bunch,Loads,A bunch,Many,Tons,A lot,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,69,0,highq_test,NULL,PennController,74,_Header_,End,1792336384311,undefined,6,7,intermediate,High,A lot|Loads|Tons|Many|A bunch,Loads,A bunch,Many,Tons,A lot,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,69,0,highq_test,NULL,PennController,74,_Trial_,End,1792336395725,undefined,6,7,intermediate,High,A lot|Loads|Tons|Many|A bunch,Loads,A bunch,Many,Tons,A lot,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,52,0,lowq_test,NULL,PennController,57,_Trial_,Start,1792336395728,undefined,2,3,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,52,0,lowq_test,NULL,PennController,57,_Header_,Start,1792336395728,undefined,2,3,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,52,0,lowq_test,NULL,PennController,57,_Header_,End,1792336395728,undefined,2,3,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,52,0,lowq_test,NULL,PennController,57,_Trial_,End,1792336406858,undefined,2,3,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,76,0,highq_test,NULL,PennController,81,_Trial_,Start,1792336406861,undefined,13,14,high,High,A lot|Loads|Tons|Many|A bunch,Many,A bunch,A lot,Loads,Tons,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,76,0,highq_test,NULL,PennController,81,_Header_,Start,1792336406861,undefined,13,14,high,High,A lot|Loads|Tons|Many|A bunch,Many,A bunch,A lot,Loads,Tons,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,76,0,highq_test,NULL,PennController,81,_Header_,End,1792336406862,undefined,13,14,high,High,A lot|Loads|Tons|Many|A bunch,Many,A bunch,A lot,Loads,Tons,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,76,0,highq_test,NULL,PennController,81,_Trial_,End,1792337101800,undefined,13,14,high,High,A lot|Loads|Tons|Many|A bunch,Many,A bunch,A lot,Loads,Tons,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,57,0,lowq_test,NULL,PennController,62,_Trial_,Start,1792337101806,undefined,7,8,intermediate,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,57,0,lowq_test,NULL,PennController,62,_Header_,Start,1792337101806,undefined,7,8,intermediate,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,57,0,lowq_test,NULL,PennController,62,_Header_,End,1792337101806,undefined,7,8,intermediate,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,57,0,lowq_test,NULL,PennController,62,_Trial_,End,1792337111931,undefined,7,8,intermediate,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,74,0,highq_test,NULL,PennController,79,_Trial_,Start,1792337111934,undefined,11,12,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Tons,Loads,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,74,0,highq_test,NULL,PennController,79,_Header_,Start,1792337111934,undefined,11,12,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Tons,Loads,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,74,0,highq_test,NULL,PennController,79,_Header_,End,1792337111934,undefined,11,12,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Tons,Loads,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,74,0,highq_test,NULL,PennController,79,_Trial_,End,1792337122097,undefined,11,12,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Tons,Loads,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,54,0,lowq_test,NULL,PennController,59,_Trial_,Start,1792337122099,undefined,4,5,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,54,0,lowq_test,NULL,PennController,59,_Header_,Start,1792337122099,undefined,4,5,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,54,0,lowq_test,NULL,PennController,59,_Header_,End,1792337122099,undefined,4,5,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,54,0,lowq_test,NULL,PennController,59,_Trial_,End,1792337132630,undefined,4,5,low,Low,Some|A couple|A few|Several|A handful,Some,A couple,A few,Several,A handful,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,72,0,highq_test,NULL,PennController,77,_Trial_,Start,1792337132632,undefined,9,10,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,72,0,highq_test,NULL,PennController,77,_Header_,Start,1792337132632,undefined,9,10,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,72,0,highq_test,NULL,PennController,77,_Header_,End,1792337132632,undefined,9,10,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,72,0,highq_test,NULL,PennController,77,_Trial_,End,1792337143113,undefined,9,10,high,High,A lot|Loads|Tons|Many|A bunch,A lot,Loads,Tons,Many,A bunch,NULL
+# 14. Comments.
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,81,0,posttest_intro,NULL,PennController,9,_Trial_,Start,1792337143115,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,81,0,posttest_intro,NULL,PennController,9,_Header_,Start,1792337143115,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,81,0,posttest_intro,NULL,PennController,9,_Header_,End,1792337143115,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,81,0,posttest_intro,NULL,PennController,9,_Trial_,End,1792337144878,undefined,NULL
+# 14. Number.
+# 15. QuestionNumber.
+# 16. NumberType.
+# 17. QuantifierSet.
+# 18. TopQuantifier.
+# 19. FullRanking.
+# 20. ReferenceObject.
+# 21. ExpectedQuantity.
+# 22. Comments.
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,106,0,posttest,NULL,PennController,106,_Trial_,Start,1792337144880,undefined,12,13,high,High,A lot,A lot|Loads|Tons|Many|A bunch,asdf,asdasdf,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,106,0,posttest,NULL,PennController,106,_Header_,Start,1792337144880,undefined,12,13,high,High,A lot,A lot|Loads|Tons|Many|A bunch,asdf,asdasdf,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,106,0,posttest,NULL,PennController,106,_Header_,End,1792337144880,undefined,12,13,high,High,A lot,A lot|Loads|Tons|Many|A bunch,asdf,asdasdf,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,106,0,posttest,NULL,PennController,106,_Trial_,End,1792337148513,undefined,12,13,high,High,A lot,A lot|Loads|Tons|Many|A bunch,asdf,asdasdf,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,84,0,posttest,NULL,PennController,84,_Trial_,Start,1792337148515,undefined,3,4,low,Low,Some,Some|A couple|A few|Several|A handful,asdfasdf,adfasf,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,84,0,posttest,NULL,PennController,84,_Header_,Start,1792337148515,undefined,3,4,low,Low,Some,Some|A couple|A few|Several|A handful,asdfasdf,adfasf,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,84,0,posttest,NULL,PennController,84,_Header_,End,1792337148515,undefined,3,4,low,Low,Some,Some|A couple|A few|Several|A handful,asdfasdf,adfasf,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,84,0,posttest,NULL,PennController,84,_Trial_,End,1792337152264,undefined,3,4,low,Low,Some,Some|A couple|A few|Several|A handful,asdfasdf,adfasf,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,87,0,posttest,NULL,PennController,87,_Trial_,Start,1792337152266,undefined,6,7,intermediate,Low,Some,Some|A couple|A few|Several|A handful,asfasf,asdfasdf,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,87,0,posttest,NULL,PennController,87,_Header_,Start,1792337152266,undefined,6,7,intermediate,Low,Some,Some|A couple|A few|Several|A handful,asfasf,asdfasdf,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,87,0,posttest,NULL,PennController,87,_Header_,End,1792337152266,undefined,6,7,intermediate,Low,Some,Some|A couple|A few|Several|A handful,asfasf,asdfasdf,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,87,0,posttest,NULL,PennController,87,_Trial_,End,1792337156180,undefined,6,7,intermediate,Low,Some,Some|A couple|A few|Several|A handful,asfasf,asdfasdf,NULL
+# 14. InterchangeableLow.
+# 15. InterchangeableHigh.
+# 16. ObjectInMind.
+# 17. ObjectInMindDetail.
+# 18. Comments.
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,108,0,posttest_check,NULL,PennController,10,_Trial_,Start,1792337156183,undefined,asdfasf,asdfasf,No,asdfasd,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,108,0,posttest_check,NULL,PennController,10,_Header_,Start,1792337156183,undefined,asdfasf,asdfasf,No,asdfasd,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,108,0,posttest_check,NULL,PennController,10,_Header_,End,1792337156183,undefined,asdfasf,asdfasf,No,asdfasd,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,108,0,posttest_check,NULL,PennController,10,_Trial_,End,1792337165731,undefined,asdfasf,asdfasf,No,asdfasd,NULL
+# 14. Comments.
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,29,0,countryposttest_intro,NULL,PennController,3,_Trial_,Start,1792337165733,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,29,0,countryposttest_intro,NULL,PennController,3,_Header_,Start,1792337165733,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,29,0,countryposttest_intro,NULL,PennController,3,_Header_,End,1792337165733,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,29,0,countryposttest_intro,NULL,PennController,3,_Trial_,End,1792337167178,undefined,NULL
+# 14. Number.
+# 15. ReferenceCountry.
+# 16. Condition.
+# 17. TopCountry.
+# 18. FullRanking.
+# 19. Strategy.
+# 20. Comments.
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,31,0,countryposttest,NULL,PennController,37,_Trial_,Start,1792337167181,undefined,2,Pakistan,Consistent,NA,NA,NA,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,31,0,countryposttest,NULL,PennController,37,_Header_,Start,1792337167181,undefined,2,Pakistan,Consistent,NA,NA,NA,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,31,0,countryposttest,NULL,PennController,37,_Header_,End,1792337167182,undefined,2,Pakistan,Consistent,NA,NA,NA,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,31,0,countryposttest,NULL,PennController,37,_Trial_,End,1792337171630,undefined,2,Pakistan,Consistent,NA,NA,NA,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,38,0,countryposttest,NULL,PennController,44,_Trial_,Start,1792337171632,undefined,9,Egypt,Inconsistent,NA,NA,NA,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,38,0,countryposttest,NULL,PennController,44,_Header_,Start,1792337171632,undefined,9,Egypt,Inconsistent,NA,NA,NA,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,38,0,countryposttest,NULL,PennController,44,_Header_,End,1792337171632,undefined,9,Egypt,Inconsistent,NA,NA,NA,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,38,0,countryposttest,NULL,PennController,44,_Trial_,End,1792337172596,undefined,9,Egypt,Inconsistent,NA,NA,NA,NULL
+# 14. NativeLang.
+# 15. OtherLangs.
+# 16. Gender.
+# 17. Education.
+# 18. Comments.
+# 19. Comments.
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,40,0,demo,NULL,PennController,4,_Trial_,Start,1792337172599,undefined,xcvdv,sdasdf,undefined,undefined,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,40,0,demo,NULL,PennController,4,_Header_,Start,1792337172599,undefined,xcvdv,sdasdf,undefined,undefined,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,40,0,demo,NULL,PennController,4,_Header_,End,1792337172599,undefined,xcvdv,sdasdf,undefined,undefined,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,40,0,demo,NULL,TextInput,NativeLang,First,,1792337175127,undefined,xcvdv,sdasdf,undefined,undefined,undefined,x
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,40,0,demo,NULL,TextInput,Gender,First,,1792337177380,undefined,xcvdv,sdasdf,undefined,undefined,undefined,a
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,40,0,demo,NULL,TextInput,Education,First,,1792337178432,undefined,xcvdv,sdasdf,undefined,undefined,undefined,a
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,40,0,demo,NULL,TextInput,NativeLang,Final,xcvdv,1792337181348,undefined,xcvdv,sdasdf,undefined,undefined,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,40,0,demo,NULL,TextInput,Gender,Final,asdfasdf,1792337181350,undefined,xcvdv,sdasdf,undefined,undefined,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,40,0,demo,NULL,TextInput,Education,Final,asdfasdf,1792337181350,undefined,xcvdv,sdasdf,undefined,undefined,undefined,NULL
+1792337181,63e4007222deb769420d08422ff1b4a9,PennController,40,0,demo,NULL,PennController,4,_Trial_,End,1792337181351,undefined,xcvdv,sdasdf,undefined,undefined,undefined,NULL

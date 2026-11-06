@@ -1,0 +1,11 @@
+Number,TrialType,ReferenceCountry,Condition
+1,test,Germany,Consistent
+2,test,Pakistan,Consistent
+3,test,Spain,Consistent
+4,test,United Kingdom,Consistent
+5,test,Cyprus,Inconsistent
+6,test,Iraq,Inconsistent
+7,test,Sudan,Inconsistent
+8,test,Armenia,Inconsistent
+9,test,Egypt,Inconsistent
+10,test,Morocco,Inconsistent
